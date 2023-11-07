@@ -6,7 +6,7 @@
 | :---: | :---: | :---: |
 | [![pic4](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic4.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/Topic%204%20Code%20Generation%20and%20Assistance) **模組四：程式生成與輔助** | [![pic5](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic5.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/Topic%205%20Image%20Generation%20and%20Editing) **模組五：影像生成與編輯** | [![pic6](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic6.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/Topic%206%20Analysis%20and%20Decision%20Making) **模組六：分析與決策** |
 
-## 專案參與者
+## 教案設計團隊
 * Chen Ken: ai.free.team@gmail.com
 * Eric Cheng: ai.free.startup@gmail.com
 * Hank Li: ai.free.hankli@gmail.com
