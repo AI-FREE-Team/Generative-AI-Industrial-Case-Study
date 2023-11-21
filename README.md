@@ -10,5 +10,6 @@
 * [陳柏銓（Chen Ken）](https://www.linkedin.com/in/pochuanchen/)
 * [鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
 * [李浩維（Hank Li）](https://www.linkedin.com/in/%E6%B5%A9%E7%B6%AD-%E6%9D%8E-996248236/)
+* [林凱翊（KaiI Lin）](https://www.linkedin.com/in/%E5%87%B1%E7%BF%8A-%E6%9E%97-3b503028b/)
 * [李佑謙（Ovien Lee）](https://www.linkedin.com/in/ovien-lee-b42a45231/)
 * [洪先生（Robin Hung）](https://www.iiiedu.org.tw/)
