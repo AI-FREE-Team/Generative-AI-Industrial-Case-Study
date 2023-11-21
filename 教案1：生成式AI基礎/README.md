@@ -21,15 +21,8 @@
 
 ## 單元三：生成式AI工具使用須知
  * 使用限制：輸入輸出字數限制
- * 關鍵字撰寫技巧：
-    * 反思方法（Reflection）
-    * TRIPO思維架構
-    * Chain of Thought 思維架構
-    * Emotional Prompt
- * 進階操作指引：
-    * 關鍵字模板（Prompt Template）
-    * 幻覺行為（Hallucination）
-    * Prompt Injection 情境
+ * 關鍵字撰寫技巧：反思方法（Reflection）、TRIPO思維架構、Chain of Thought 思維架構、Emotional Prompt
+ * 進階操作指引：關鍵字模板（Prompt Template）、幻覺行為（Hallucination）、Prompt Injection 情境
 
 ## 單元四：生成式AI工具成本效益
  * 中英文Token的計算方式
