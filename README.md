@@ -6,9 +6,9 @@
 | :---: | :---: | :---: |
 | [![pic4](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic4.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/Topic%204%20Code%20Generation%20and%20Assistance) **模組四：程式生成與輔助** | [![pic5](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic5.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/Topic%205%20Image%20Generation%20and%20Editing) **模組五：影像生成與編輯** | [![pic6](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic6.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/Topic%206%20Analysis%20and%20Decision%20Making) **模組六：分析與決策** |
 
-## 教案設計團隊
-* Chen Ken: ai.free.team@gmail.com
-* Eric Cheng: ai.free.startup@gmail.com
-* Hank Li: ai.free.hankli@gmail.com
-* Ovien Lee: ai.free.ovienlee@gmail.com
-* Robin Hung: robinhung@iii.org.tw
+## 教案設計團隊：[AI . FREE Team](https://www.facebook.com/aifreeteam/) & [資策會教研所](https://www.iiiedu.org.tw/)
+* [陳柏銓（Chen Ken）](https://www.linkedin.com/in/pochuanchen/): ai.free.team@gmail.com
+* [鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/): ai.free.startup@gmail.com
+* [李浩維（Hank Li）](https://www.linkedin.com/in/%E6%B5%A9%E7%B6%AD-%E6%9D%8E-996248236/): ai.free.hankli@gmail.com
+* [李佑謙（Ovien Lee）](https://www.linkedin.com/in/ovien-lee-b42a45231/): ai.free.ovienlee@gmail.com
+* [洪先生（Robin Hung）](https://www.iiiedu.org.tw/): robinhung@iii.org.tw
