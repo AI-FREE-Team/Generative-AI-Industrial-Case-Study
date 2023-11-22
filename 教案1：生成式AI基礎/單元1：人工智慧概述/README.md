@@ -11,6 +11,7 @@
 
 ### 2.2 軟硬體效率的提升
 除了大數據之外，在硬體面上有電腦運算資源的提升，如適合大量平行處理的 GPU 出現；在軟體面上也有演算法的精進，這些面向都促使 AI 的訓練更加迅速且準確，下圖顯示由於資料量(X軸)的充足及演算法之精進(藍色線)促使更好的表現(Y軸)結果。
+
 ![圖一、資料量與演算法對於模型表現之影響。](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8FAI%E5%9F%BA%E7%A4%8E/pics/unit1/Pic1.%E8%B3%87%E6%96%99%E9%87%8F%E8%88%87%E6%BC%94%E7%AE%97%E6%B3%95%E5%B0%8D%E6%96%BC%E6%A8%A1%E5%9E%8B%E8%A1%A8%E7%8F%BE%E4%B9%8B%E5%BD%B1%E9%9F%BF.png)
 
 ### 2.3 人工智慧（AI）
