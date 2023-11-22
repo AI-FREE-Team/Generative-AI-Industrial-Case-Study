@@ -58,7 +58,9 @@
 
 ## （Optional）補充知識點：GPT 是如何學習的
 生成式 AI 在文字上的應用最廣為熟知的就是 ChatGPT，而事實上 ChatGPT 是由 Transformer 一路精進為 GPT（Generative Pre-trained Transformer）系列模型後，才微調（Finetune）而來的大型語言模型（Large Language Model, LLM）。
+
 在大型語言模型中，通常藉由自監督式學習（Self-Supervised Learning，為一種介於監督式學習與非監督式學習的方法）節省大量標註資料的時間成本，透過長時間大量文本資料的訓練後，GPT 模型將具有填空或接龍之能力。
+
 舉例而言，若我收集到文本資料為「AI . FREE Team!」，則訓練資料如下圖所示，藉此透過大量文本之學習模型及可能學會對於文字的理解與應對!
 
 ![圖五、GPT透過文本學習](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8FAI%E5%9F%BA%E7%A4%8E/pics/unit1/Pic5.GPT%E9%80%8F%E9%81%8E%E6%96%87%E6%9C%AC%E5%AD%B8%E7%BF%92.png)
