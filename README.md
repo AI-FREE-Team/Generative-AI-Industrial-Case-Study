@@ -6,10 +6,10 @@
 | :---: | :---: | :---: |
 | [![pic4](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic4.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9) **模組四：程式生成與輔助** | [![pic5](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic5.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF) **模組五：影像生成與編輯** | [![pic6](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic6.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96) **模組六：分析與決策** |
 
-## 教案設計團隊：[AI . FREE Team](https://www.facebook.com/aifreeteam/) & [資策會教研所](https://www.iiiedu.org.tw/)
+## 教案設計團隊：[AI . FREE Team](https://www.facebook.com/aifreeteam/) & [數位發展部數位產業署](https://moda.gov.tw/ADI/)
 * [陳柏銓（Chen Ken）](https://www.linkedin.com/in/pochuanchen/)
 * [鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
 * [李浩維（Hank Li）](https://www.linkedin.com/in/%E6%B5%A9%E7%B6%AD-%E6%9D%8E-996248236/)
 * [林凱翊（KaiI Lin）](https://www.linkedin.com/in/%E5%87%B1%E7%BF%8A-%E6%9E%97-3b503028b/)
 * [李佑謙（Ovien Lee）](https://www.linkedin.com/in/ovien-lee-b42a45231/)
-* [洪先生（Robin Hung）](https://moda.gov.tw/ADI/)
+* [洪先生（Robin Hung）](https://www.iiiedu.org.tw/)
