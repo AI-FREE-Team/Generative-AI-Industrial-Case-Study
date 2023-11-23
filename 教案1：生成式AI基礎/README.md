@@ -4,21 +4,20 @@
 ## 單元一：人工智慧概述
  * 大數據與人工智慧
  * AI 的四個學習方式：監督式學習、非監督式學習、強化學習、整合學習
- * 預測型AI的三大應用：電腦視覺、自然語言處理、時間序列模型
- * 生成式AI的三大應用：文字、影像、音訊
- * 未來三年的AI發展
+ * 預測型 AI 的三大應用：電腦視覺、自然語言處理、時間序列模型
+ * 生成式 AI 的三大應用：文字、影像、音訊
+ * 未來三年的 AI 發展
 
 ## 單元二：生成式 AI 概述
  * 文字類：
     * 技術：大型語言模型（LLM）、GPT系列
-    * 工具：ChatGPT、Bing Chat、Bard、Github Copilot
+    * 工具：[ChatGPT](https://chat.openai.com/)、[Bing Chat](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8)、[Bard](https://bard.google.com/chat?hl=zh-TW)、[Github Copilot](https://github.com/features/copilot)
  * 影像類：
     * 技術：生成對抗網路（GAN）、擴散模型（Diffusion Model）
-    * 工具：Stable Diffusion、Image Creator、Midjourney、Runway、PikaLab
+    * 工具：[Stable Diffusion](https://stablediffusionweb.com/)、[Image Creator](https://www.bing.com/create)、[Midjourney](https://legacy.midjourney.com/showcase/recent/)、[Runway](https://runwayml.com/)、[PikaLab](https://www.pika.art/)
  * 音訊類：
     * 技術：文字轉語音、自然語言翻譯
-    * 應用：Nvidia NeMo、OpenAI Whipser
- * 雲端服務：GCP Vertex AI、AWS、Azure
+    * 應用：[Nvidia NeMo](https://github.com/NVIDIA/NeMo)、[OpenAI Whipser](https://openai.com/research/whisper)
 
 ## 單元三：生成式AI工具使用須知
  * 使用限制：輸入輸出字數限制、對於不同等級LLM應有的期待、知識截點（Knowledge Cutoff）
