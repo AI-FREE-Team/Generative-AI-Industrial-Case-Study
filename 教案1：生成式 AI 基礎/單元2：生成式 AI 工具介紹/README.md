@@ -1,6 +1,7 @@
 # 單元二、生成式 AI 工具介紹
 
 ## 1. 前言
+to-do
 
 ## 2. 文字類型的生成式 AI 工具
 這類型的生成式AI工具輸出的資料型態屬於文字，目前市面上常見的工具如包含：ChatGPT、Bing Chat、Skype Bing、Google Bard，甚至是能夠幫忙寫程式的 Github Copilot 都算在此列當中，邀請讀者們直接點擊下方圖片欄，直接操作看看。

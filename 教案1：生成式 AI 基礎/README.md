@@ -19,7 +19,7 @@
     * 技術：文字轉語音、自然語言翻譯
     * 應用：[Nvidia NeMo](https://github.com/NVIDIA/NeMo)、[OpenAI Whipser](https://openai.com/research/whisper)
 
-## 單元三：生成式AI工具使用須知
+## 單元三：生成式 AI 工具使用須知
  * 使用限制：輸入輸出字數限制、對於不同等級LLM應有的期待、知識截點（Knowledge Cutoff）
  * 關鍵字撰寫技巧：反思方法（Reflection）、TRIPO思維架構、Chain of Thought 思維架構、Emotional Prompt
  * 進階操作指引：關鍵字模板（Prompt Template）、幻覺行為（Hallucination）、Prompt Injection 情境
