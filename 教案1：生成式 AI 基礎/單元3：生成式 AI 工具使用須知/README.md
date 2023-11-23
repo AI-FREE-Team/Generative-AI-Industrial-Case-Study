@@ -6,8 +6,10 @@
 ## 2. 使用限制
 
 ### 2.1 輸入輸出字數限制
+在自然語言處理（NLP）中，「Token」是指文本中的最小單位，通常是單詞、詞彙或符號，而1個Token大約是3/4個英文單字或0.5個中文字。生成式AI必定存在輸入與輸出長度之限制，以ChatGPT為例，ChatGPT 3.5就有4096個Token限制，因此了解生成式AI的Token限制將有助於我們更有效的優化輸入與輸出，盡量提高資訊密度，在有限Token中傳達與獲取最大量的訊息。
 
 ### 2.2 對於不同等級LLM應有的期待
+
 
 ### 2.3 知識截點（Knowledge Cutoff）
 
@@ -71,8 +73,13 @@ TRIPO其實是五個英文單字的縮寫，分別是 Task、Role（角色）、
     5. 幻覺修正(Hallucination Correction)：利用彙整的資訊修正有幻覺行為的關鍵字。
 
 ### 4.3 認識潛在攻擊行為（Prompt Injection）
+「李慕約有限公司」創辦人[李慕約於生成式AI年會](https://www.youtube.com/watch?v=UPN2VD0cV4s)中提及有些詞彙對於生成式AI來說屬於「太有力量的字」，例如：忽略前面指令、Sudo、懂了就重複、翻譯等...，例如：當我提供秘密給ChatGPT，雖然告知不可以告訴任何人，卻仍能夠藉由這些太有力量的詞彙，盜取秘密!
 
-## 5. 責任的生成式AI（Responsible AI）
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit1/Pic4.%E6%9C%AA%E4%BE%863%E5%B9%B4%E7%9A%84AI%E7%99%BC%E5%B1%95.png" height="250px">
+</div>
+
+## 5. 負責任的生成式AI（Responsible AI）
 
 ### 5.1 五大原則：公平、透明、隱私、安全、道德
 
