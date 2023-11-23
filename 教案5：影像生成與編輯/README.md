@@ -7,9 +7,9 @@ AI繪圖在這波生成式AI的浪潮中因為社群媒體的推播助瀾，大�
 * [平面設計領域](https://zh.wikipedia.org/zh-tw/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1)使用情境
 
 ## 單元二：介紹相關生成式 AI 工具
-* 生成影片的工具：Runway、PikaLab
-* 生成圖像的工具：Stable Diffusion（基礎/進階）、Image Creator、Midjourney
-* 整合型工具：ChatGPT 結合 DALLE
+* 生成影片的工具：[Runway](https://runwayml.com/)、[Pika Labs](https://www.pika.art/)
+* 生成圖像的工具：Stable Diffusion（[基礎](https://stablediffusionweb.com/)/[進階](https://github.com/AUTOMATIC1111/stable-diffusion-webui)）、[Image Creator](https://www.bing.com/create)、[Midjourney](https://legacy.midjourney.com/showcase/recent/)
+* 整合型工具：[ChatGPT](https://chat.openai.com/) 結合 DALLE
 
 ## 單元三：實際測試生成式 AI 工具
 * 日常對話生成圖像：ChatGPT 結合 DALLE

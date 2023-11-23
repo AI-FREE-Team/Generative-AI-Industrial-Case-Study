@@ -14,7 +14,7 @@
     * 工具：[ChatGPT](https://chat.openai.com/)、[Bing Chat](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8)、[Bard](https://bard.google.com/chat?hl=zh-TW)、[Github Copilot](https://github.com/features/copilot)
  * 影像類：
     * 技術：生成對抗網路（GAN）、擴散模型（Diffusion Model）
-    * 工具：[Stable Diffusion](https://stablediffusionweb.com/)、[Image Creator](https://www.bing.com/create)、[Midjourney](https://legacy.midjourney.com/showcase/recent/)、[Runway](https://runwayml.com/)、[PikaLab](https://www.pika.art/)
+    * 工具：[Stable Diffusion](https://stablediffusionweb.com/)、[Image Creator](https://www.bing.com/create)、[Midjourney](https://legacy.midjourney.com/showcase/recent/)、[Runway](https://runwayml.com/)、[Pika Labs](https://www.pika.art/)
  * 音訊類：
     * 技術：文字轉語音、自然語言翻譯
     * 應用：[Nvidia NeMo](https://github.com/NVIDIA/NeMo)、[OpenAI Whipser](https://openai.com/research/whisper)
@@ -28,8 +28,8 @@
     * 實務方案：對齊（Alignment）
 
 ## 單元四：生成式AI工具成本效益
- * 中英文Token的計算方式
- * GPT衍生服務成本計算
+ * 中英文 Token 的計算方式
+ * GPT 衍生服務成本計算
 
 ## 教案設計者
  - 作者：[林凱翊（KaiI Lin）](https://www.linkedin.com/in/%E5%87%B1%E7%BF%8A-%E6%9E%97-3b503028b/)、[鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
