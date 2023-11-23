@@ -9,9 +9,13 @@
 在自然語言處理（NLP）中，「Token」是指文本中的最小單位，通常是單詞、詞彙或符號，而1個Token大約是3/4個英文單字或0.5個中文字。生成式AI必定存在輸入與輸出長度之限制，以ChatGPT為例，ChatGPT 3.5就有4096個Token限制，因此了解生成式AI的Token限制將有助於我們更有效的優化輸入與輸出，盡量提高資訊密度，在有限Token中傳達與獲取最大量的訊息。
 
 ### 2.2 對於不同等級LLM應有的期待
-
+根據業界知名的吳恩達（Andrew Ng）老師在[開源線上課程：Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/?utm_campaign=genai4e-launch&utm_medium=video&utm_source=youtube&utm_content=teaser) 當中提及了大型語言模型（Large Language Model，LLM）的概念。
+LLM通常會隨著訓練參數量的增加，而越具備邏輯思考或是說越具備處理複雜認知任務的能力，舉例而言，我們耳熟能詳的GPT3參數量就高達1750億個，這類型的AI模型就能夠具備高強度的認知任務，它可能具備很成熟的換句話說的能力，可能也能夠很輕易地就做到因果關係的推論。
+然而此類型的LLM並非我們一般消費者能夠自己Run在筆電或桌電上的（因為餐數量太大，硬體記憶體不夠），若是有讀者自己有離線使用LLM的需求，那可能我們會使用到小於100億參數量的語言模型，如[Taiwan-LLaMa（70億參數量）](https://github.com/MiuLab/Taiwan-LLaMa)，此種LLM還是會具備一定的邏輯思考能力，然而對於太複雜的任務就容易出錯，但因為其較為輕便，容易部署，很適合用來在本地端執行較為簡單的任務，這樣就不需要使用到太過複雜的LLM，如：GPT3。
+因此讀者未來在使用LLM的時候，盡量先瞭解到目前的LLM它的參數量有多大，有助於我們對於LLM的表現有正確的期待。
 
 ### 2.3 知識截點（Knowledge Cutoff）
+這部分最知名的例子即為ChatGPT，由於ChatGPT具有強大的思考與推論能力，部分研究人員擔心若ChatGPT獲取了即時的現實資訊，可能會對社會造成過大的衝擊，因此開放一般民眾使用的ChatGPT，其訓練資料只包含到2023/04，在四月之後發生的事情ChatGPT一概不知。所以通常不會建議讀者向ChatGPT諮詢太過於近期發生的事情，避免幻覺（見4.2）的情況發生。
 
 ## 3. 關鍵字撰寫技巧（Prompt Engineering）
 在此先提供基礎的對話原則，基本上對於生成式AI的提問時，請盡量滿足清晰性、重點性、相關性：
