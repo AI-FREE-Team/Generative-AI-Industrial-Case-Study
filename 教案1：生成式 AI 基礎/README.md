@@ -8,7 +8,7 @@
  * 生成式 AI 的三大應用：文字、影像、音訊
  * 未來三年的 AI 發展
 
-## 單元二：生成式 AI 概述
+## 單元二：生成式 AI 工具介紹
  * 文字類：
     * 技術：大型語言模型（LLM）、GPT系列
     * 工具：[ChatGPT](https://chat.openai.com/)、[Bing Chat](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8)、[Bard](https://bard.google.com/chat?hl=zh-TW)、[Github Copilot](https://github.com/features/copilot)
