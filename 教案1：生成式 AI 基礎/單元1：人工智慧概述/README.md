@@ -37,7 +37,7 @@
 ### 3.4 整合學習（Integration Learning）
 通常更加進階的任務當中，就會需要整合多元的訓練方式，像是我們熟知的 ChatGPT v3.5 即為此例，資料科學家們需要整合使用上述三種基礎學習法（詳見下圖，圖中的RAG將會留到單元3進行介紹）才能夠取得適用於特定場景的 ChatGPT 智能助理，而這還只是文字類的生成式 AI 工具，其它還有像是圖片甚至是音訊的生成式 AI 工具也都會有其專屬的整合訓練方法。
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit1/Pic3.%E9%A0%90%E6%B8%AC%E5%9E%8BAI%E4%B8%89%E5%A4%A7%E6%87%89%E7%94%A8.png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit1/Pic6.ChatGPT%E8%A8%93%E7%B7%B4%E6%96%B9%E5%BC%8F_v2.png" height="250px">
 </div>
 
 ## 4. 預測型 AI 的三大應用 
