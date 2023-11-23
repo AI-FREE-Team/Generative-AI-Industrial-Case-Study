@@ -4,7 +4,12 @@
 
 ## 2. 文字類型的生成式 AI 工具
 這類型的生成式AI工具輸出的資料型態屬於文字，目前市面上常見的工具如包含：ChatGPT、Bing Chat、Skype Bing、Google Bard，甚至是能夠幫忙寫程式的 Github Copilot 都算在此列當中，邀請讀者們值接點擊下方圖片欄，直接操作看看。
-| [![pic1](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit2/pic1.chatgpt_v2.png)](https://chat.openai.com/) ChatGPT | [![pic2](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit2/pic2.bingchat.png)](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8) Bing Chat | [![pic3](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit2/pic3.skypebing_v2.png)](https://www.skype.com/en/blogs/2023-02-bing-bot-in-skype/) Skype Bing | [![pic4](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit2/pic4.googlebard.png)](https://bard.google.com/chat?hl=zh-TW) Google Bard |
+
+
+
+| [<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit2/pic1.chatgpt_v2.png" height="250px">
+</div>](https://chat.openai.com/) ChatGPT | [![pic2](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit2/pic2.bingchat.png)](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8) Bing Chat | [![pic3](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit2/pic3.skypebing_v2.png)](https://www.skype.com/en/blogs/2023-02-bing-bot-in-skype/) Skype Bing | [![pic4](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit2/pic4.googlebard.png)](https://bard.google.com/chat?hl=zh-TW) Google Bard |
 | :---: | :---: | :---: | :---: |
 | 註冊後即可免費使用V3.5，許多進階功能都在 V4 才能使用 | 在 Edge 瀏覽器能夠使用，結合網路索引的功能，並提供創意、中性、嚴謹三種模式 | 在 Skype 當中能夠與 Bing 對話，也能將其加入群組一同討論 | 提供許多問答情境的模板，與 Google 自家的其它服務整合良好 |
 
