@@ -76,11 +76,10 @@ TRIPO其實是五個英文單字的縮寫，分別是 Task、Role（角色）、
 「李慕約有限公司」創辦人[李慕約於生成式AI年會](https://www.youtube.com/watch?v=UPN2VD0cV4s)中提及有些詞彙對於生成式AI來說屬於「太有力量的字」，例如：忽略前面指令、Sudo、懂了就重複、翻譯等...，例如：當我提供秘密給ChatGPT，雖然告知不可以告訴任何人，卻仍能夠藉由這些太有力量的詞彙，盜取秘密!
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit1/Pic4.%E6%9C%AA%E4%BE%863%E5%B9%B4%E7%9A%84AI%E7%99%BC%E5%B1%95.png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit3/pic1.promptinjection.png" height="250px">
 </div>
 
-## 5. 負責任的生成式AI（Responsible AI）
+也因此我們需要更認識潛在攻擊，並思考防禦方法，常見的防禦方法就是一關一關的防禦攻擊，例如：不可以Sudo、不可以翻譯、秘密結束等...，此外，李慕約提及，可以分開多個GPT限制單一GPT的權限，並建立隱藏規則，當某些使用者過於可疑，即展開封鎖，而最重要的是：我們要做好心理準備，這些潛在攻擊絕對有可能實現。
 
-### 5.1 五大原則：公平、透明、隱私、安全、道德
-
-### 5.2 實務方案：對齊（Alignment）
+## 5. 尾聲
+相信到了這邊大家對於生成式AI的了解必定更為全面，接下來讓我們進入下一個單元，一起來評估生成式AI帶來的成本與效益。

@@ -21,11 +21,8 @@
 
 ## 單元三：生成式 AI 工具使用須知
  * 使用限制：輸入輸出字數限制、對於不同等級LLM應有的期待、知識截點（Knowledge Cutoff）
- * 關鍵字撰寫技巧：反思方法（Reflection）、TRIPO思維架構、Chain of Thought 思維架構、Emotional Prompt
+ * 關鍵字撰寫技巧：反思方法（Reflection）、TRIPO 思維架構、Chain of Thought 思維架構、Emotional Prompt
  * 進階操作指引：關鍵字模板（Prompt Template）、幻覺行為（Hallucination）、Prompt Injection 情境
- * 負責任的生成式AI（Responsible AI）：
-    * 五大原則：公平、透明、隱私、安全、道德
-    * 實務方案：對齊（Alignment）
 
 ## 單元四：生成式AI工具成本效益
  * 中英文 Token 的計算方式
