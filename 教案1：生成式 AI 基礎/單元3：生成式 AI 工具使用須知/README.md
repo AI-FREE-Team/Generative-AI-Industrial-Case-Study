@@ -49,10 +49,28 @@ TRIPO其實是五個英文單字的縮寫，分別是 Task、Role（角色）、
 ## 4. 進階操作指引
 
 ### 4.1 關鍵字模板（Prompt Template）
+好的關鍵字模板將能夠在同一種使用情境下大量的根據不同的人物、介紹標的、目標重複使用，這邊我們參考[政治大學傳播學李怡志教授](https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3654)提供的簡單模版，這個模板可以適用於多數推廣任何事情的情境中。
+這個模板將關鍵字拆解成：傳播者（Source）、訊息（Message）、媒體（Channel）、接受者（Receiver），舉例來說，若我想要請ChatGPT寫一篇文章推銷 AI . FREE Team，那麼我們就可以套用模板，並得到以下的結果：
+「請以推銷員的身分（傳播者），針對數位轉型中的企業（接受者），寫一篇宣傳 AI . FREE Team 的文章，AI . FREE Team 提供：技術導入、商務轉型、教育訓練、客製化專案等服務（訊息），並刊登在Instagram（媒體）。」
 
 ### 4.2 幻覺行為（Hallucination）
+由於訓練資料不可能完全涵蓋所有知識以及可能具有錯誤訊息，因此生成式AI仍具有相關知識短缺之問題，此外生成式AI有可能以肯定的語氣回答錯誤或編造的內容，此行為即為：幻覺行為（Hallucination）。
+面對幻覺行為，人們需要查證並判斷AI給出的解答是否正確，技術上更可使用前述所提之檢索增強生成（Retrieval-Augmented Generatrion，RAG）防止幻覺行為的產生。
+* 檢索增強生成（RAG）
+興建領域資料庫，透過資料庫提供模型更多該領域知識，確保模型有正確的輸出。大型語言模型在輸出的時候通常會一併附上它是基於資料庫當中的哪一段文字，因此可透過AI提供的參考連結，進一步確認是否真的有出現幻覺的行為，而通常在使用RAG之後，由於已經有提供特定領域的外部資訊，因此回覆上的準確度會比什麼都沒有額外給AI的回覆能力還要好上不少。
 
-### 4.3 Prompt Injection 情境
+* Woodpecker 詢問流程
+此外亦可利用[Woodpecker](https://github.com/BradyFU/Woodpecker)解決生成式AI的幻覺行為，Woodpecker透過5個步驟大幅提升模型回覆的準確率，過程一共包含五步驟（見下方流程圖）
+<div align=center>
+<img src="https://github.com/BradyFU/Woodpecker/blob/main/assets/framework.png" height="250px">
+</div>
+    1. 關鍵概念擷取（Key　Concept　Extraction）：取得關鍵詞，並利用這些關鍵詞。
+    2. 生成問題（Question　Formulation）：利用5W1H的架構詢問簡單的問題。
+    3. 視覺知識驗證(Visual　Knowledge　Validation)：利用 GPT4-V 提供視覺資訊。
+    4. 視覺與敘述之生成(Visual Claim Generation)：彙整上述三步驟的資訊。
+    5. 幻覺修正(Hallucination Correction)：利用彙整的資訊修正有幻覺行為的關鍵字。
+
+### 4.3 認識潛在攻擊行為（Prompt Injection）
 
 ## 5. 責任的生成式AI（Responsible AI）
 
