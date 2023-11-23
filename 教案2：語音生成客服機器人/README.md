@@ -21,5 +21,5 @@
 * 以 ASR 驗證聲音輸出的正確性
 
 ## 教案設計者
- - 作者：[鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
+ - 作者：[李佑謙（Ovien Lee）](https://www.linkedin.com/in/ovien-lee-b42a45231/)、[鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
  - 最後更新日期：2023/11/23
