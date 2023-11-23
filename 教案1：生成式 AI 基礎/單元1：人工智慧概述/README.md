@@ -74,5 +74,5 @@
 舉例而言，若我收集到文本資料為「AI . FREE Team!」，則訓練資料如下圖所示，藉此透過大量文本之學習模型及可能學會對於文字的理解與應對!
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit1/Pic5.GPT%E9%80%8F%E9%81%8E%E6%96%87%E6%9C%AC%E5%AD%B8%E7%BF%92_v2.png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit1/Pic5.GPT%E9%80%8F%E9%81%8E%E6%96%87%E6%9C%AC%E5%AD%B8%E7%BF%92_v5.png" height="250px">
 </div>
