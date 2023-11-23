@@ -7,10 +7,10 @@
 * 營銷和廣告使用情境：參考社群媒體貼文生成需求
 
 ## 單元二：介紹相關生成式 AI 工具
-* [ChatGPT 工具](https://chat.openai.com/)介紹
-* [Bing Chat](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8)介紹
-* [Skype Bing 工具](https://www.skype.com/en/blogs/2023-02-bing-bot-in-skype/)介紹
-* [Google Bard 工具](https://bard.google.com/chat?hl=zh-TW)介紹
+* [ChatGPT 工具介紹](https://chat.openai.com/)
+* [Bing Chat 工具介紹](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8)
+* [Skype Bing 工具介紹](https://www.skype.com/en/blogs/2023-02-bing-bot-in-skype/)
+* [Google Bard 工具介紹](https://bard.google.com/chat?hl=zh-TW)
 
 ## 單元三：實際測試生成式 AI 工具
 * 營銷廣告使用情境與流程介紹

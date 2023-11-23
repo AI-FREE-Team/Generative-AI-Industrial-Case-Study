@@ -7,9 +7,9 @@
 * 金融業使用情境：參考國泰世華客服機器人
 
 ## 單元二：介紹相關生成式 AI 工具
-* [ChatGPT 工具](https://chat.openai.com/)介紹
-* [OpenAI Whisper 工具](https://openai.com/research/whisper)介紹
-* [Nvidia NeMo 開源程式碼專案](https://github.com/NVIDIA/NeMo)介紹
+* [ChatGPT 工具介紹](https://chat.openai.com/)
+* [OpenAI Whisper 工具介紹](https://openai.com/research/whisper)
+* [Nvidia NeMo 開源程式碼專案介紹](https://github.com/NVIDIA/NeMo)
 
 ## 單元三：實際測試生成式 AI 工具
 * 金融領域使用情境與流程
