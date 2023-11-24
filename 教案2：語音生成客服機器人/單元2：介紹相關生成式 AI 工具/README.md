@@ -63,15 +63,37 @@ GPT-3.5 Turbo的模型原則上是所需成本最低系列，`gpt-3.5-turbo`能�
 本節介紹的OpenAI Whisper與下一節介紹的Nvidia NeMo都是可以用來生成聲音的工具，不過OpenAI的Whisper是需要花費使用的，詳細的介紹可以參考[此Github連結](https://github.com/openai/whisper#available-models-and-languages)。
 
 ### 3.1 多元音色
-目前whisper提供了6種不一樣的聲音，歡迎讀者點擊此連結（即可看到下圖畫面），實際聽聽看不同人選的音色為何。
+目前whisper提供了6種不一樣的聲音（Alloy, Echo, Fable, Onyx, Nova, Shimmer），歡迎讀者點擊此連結（即可看到下圖畫面），實際聽聽看不同人選的音色為何。
 
 <div align=center>
 <img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/pic2.whisper_voice.png" height="400px">
 </div>
 
 ### 3.2 支援語言
+而語言的部分則支援了數十種語言，目前一共包含以下這些語言：
+```
+Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Latvian, Lithuanian, Macedonian, Malay, Marathi, Maori, Nepali, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian, Urdu, Vietnamese, and Welsh.
+```
+
+### 3.3 模型選擇
+而模型的選擇上也可以基於硬體的記憶體限制，或是要求的回覆速度與品質，自由選擇，在Github上的專案中也有詳細的列出不同大小的模型對應的數值表現，目前的情況可見下表，通常越大的模型表現越好，但是反應速度和對硬體的要求就會更高一些。
+
+| Size | Parameters | English-only model | Multilingual model | Required VRAM | Relative Speed |
+| : -- : | : -- : | : -- : | : -- : | : -- : | : -- : |
+| tiny | 39M | `tiny.en` | `tiny` | ~1GB | ~32x |
+| base | 74M | `base.en` | `base` | ~1GB | ~16x |
+| small | 244M | `small.en` | `base` | ~2GB | ~6x |
+| medium | 769M | `medium.en` | `medium` | ~5GB | ~2x |
+| large | 1550M | N/A | `large` | ~10GB | 1x |
 
 ## 4. Nvidia NeMo 開源程式碼專案介紹
+Nvidia NeMo是面對自然語言處理（Natural Language Processing）的開源套件，非常適合想要嘗試建置智能語音助理的開發團隊，只要利用NeMo提供的文字轉語音（Text-to-Speech）API，即可快速建立語音生成的服務。
+
+詳盡的資料可以參考[NeMo在Github的開源專案](https://github.com/NVIDIA/NeMo/tree/main)，在[教學網站](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html)（下圖）中也將使用情境分成四種領域（Domain），包含：一般（General）、語音辨識（ASR）、自然語言處理（NLP，主要針對純文字的任務）與這個教案著重討論的文字轉語音（TTS）。
+
+
+
+
 
 ## 5. 小節
 針對金融領域的業者而言，建議先使用ChatGPT網業服務，感受GPT-3.5與GPT-4的問答能力是否可行；而後再開發專屬客服機器人的時候，再根據使用體驗，決定要使用GPT-3.5系列的API還是GPT-4系列的API，如果發現客服機器人回答還差強人意，則可以考慮利用嵌入（Embedding）模型加入RAG的功能，最後如果還是不行的話，就再考慮微調（Finetune）GPT模型了（如果是GPT-3.5的情境，現在尚未開放GPT-4的微調）！
