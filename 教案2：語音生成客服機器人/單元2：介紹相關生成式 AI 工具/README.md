@@ -91,9 +91,11 @@ Nvidia NeMo是面對自然語言處理（Natural Language Processing）的開源
 
 詳盡的資料可以參考[NeMo在Github的開源專案](https://github.com/NVIDIA/NeMo/tree/main)，在[教學網站](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html)（下圖）中也將使用情境分成四種領域（Domain），包含：一般（General）、語音辨識（ASR）、自然語言處理（NLP，主要針對純文字的任務）與這個教案著重討論的文字轉語音（TTS）。
 
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/pic3.NeMoTutorial.png" height="400px">
+</div>
 
-
-
+我們在[**教案4、程式生成與輔助的第三單元**](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/%E5%96%AE%E5%85%833%EF%BC%9A%E5%AF%A6%E9%9A%9B%E6%B8%AC%E8%A9%A6%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%B7%A5%E5%85%B7)有提供詳盡的教學內容（文章、影音），若有興趣打造專屬自己的語音智能助理，歡迎各位讀者參考。
 
 ## 5. 小節
 針對金融領域的業者而言，建議先使用ChatGPT網業服務，感受GPT-3.5與GPT-4的問答能力是否可行；而後再開發專屬客服機器人的時候，再根據使用體驗，決定要使用GPT-3.5系列的API還是GPT-4系列的API，如果發現客服機器人回答還差強人意，則可以考慮利用嵌入（Embedding）模型加入RAG的功能，最後如果還是不行的話，就再考慮微調（Finetune）GPT模型了（如果是GPT-3.5的情境，現在尚未開放GPT-4的微調）！
