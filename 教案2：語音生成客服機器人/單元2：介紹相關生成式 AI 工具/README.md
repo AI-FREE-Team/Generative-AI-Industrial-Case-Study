@@ -79,10 +79,8 @@ Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catala
 而模型的選擇上也可以基於硬體的記憶體限制，或是要求的回覆速度與品質，自由選擇，在Github上的專案中也有詳細的列出不同大小的模型對應的數值表現，目前的情況可見下表，通常越大的模型表現越好，但是反應速度和對硬體的要求就會更高一些。
 
 | Size | Parameters | English-only model | Multilingual model | Required VRAM | Relative Speed |
-| : -- : | : -- : | : -- : | : -- : | : -- : | : -- : |
+| :--: | :--: | :--: | :--: | :--: | :--: |
 | tiny | 39M | `tiny.en` | `tiny` | ~1GB | ~32x |
-
-
 | base | 74M | `base.en` | `base` | ~1GB | ~16x |
 | small | 244M | `small.en` | `base` | ~2GB | ~6x |
 | medium | 769M | `medium.en` | `medium` | ~5GB | ~2x |
