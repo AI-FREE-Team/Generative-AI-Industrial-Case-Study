@@ -81,6 +81,8 @@ Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catala
 | Size | Parameters | English-only model | Multilingual model | Required VRAM | Relative Speed |
 | : -- : | : -- : | : -- : | : -- : | : -- : | : -- : |
 | tiny | 39M | `tiny.en` | `tiny` | ~1GB | ~32x |
+
+
 | base | 74M | `base.en` | `base` | ~1GB | ~16x |
 | small | 244M | `small.en` | `base` | ~2GB | ~6x |
 | medium | 769M | `medium.en` | `medium` | ~5GB | ~2x |
