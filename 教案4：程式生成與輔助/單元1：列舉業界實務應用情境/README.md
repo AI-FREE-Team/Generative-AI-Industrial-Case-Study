@@ -49,7 +49,7 @@ to-do
     * 資訊會利用Event Graph進行整理，例如下面兩張圖片就是在Godot會使用到的Event Graph。
 | 射擊類型遊戲 | 開放世界遊戲 |
 | :--: | :--: |
-| ![射擊類型遊戲]() | ![開放世界遊戲]() |
+| ![射擊類型遊戲](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/pic1.shoottype.png) | ![開放世界遊戲](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/openworld.png) |
 
  * 遊戲活動區域遊玩方式：
 
