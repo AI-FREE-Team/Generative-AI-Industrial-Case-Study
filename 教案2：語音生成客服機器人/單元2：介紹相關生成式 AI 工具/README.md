@@ -10,7 +10,7 @@
 目前ChatGPT開放GPT3.5讓大家免費使用，基本上大家只要完成註冊，都可以順利看到以下的畫面。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/ChatGPT3.5.png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/ChatGPT3.5.png" height="400px">
 </div>
 
 若有付費訂閱GPT4（目前訂閱費用每個月600TWD），除了語言模型的邏輯推理能力更強，更能夠處理複雜的任題之外，也涵蓋了許多不同的功能，如：上傳截圖、客製化GPT、使用AI繪圖、加入Plugin，以本教案鎖定金融業的使用情境，比較可能使用到的功能會有上傳截圖與客製化GPT，此部分下一個單元將會有相關示範。
@@ -23,7 +23,7 @@
 而OpenAI提供的API服務也不只有語言模型（Language Model），其中也包含了像是影像的生成或是語音的生成服務，下面主要是針對文字的部分進行討論，更多資訊都可以參考[OpenAI為軟體工程師提供的平台](https://platform.openai.com/docs/overview)。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/Pic2.OpenAI.API.Dev.Platform.png" height="500px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/Pic2.OpenAI.API.Dev.Platform.png" height="400px">
 </div>
 
 #### 2.2.1 GPT-4 Turbo
@@ -60,8 +60,16 @@ GPT-3.5 Turbo的模型原則上是所需成本最低系列，`gpt-3.5-turbo`能�
 | ada v2 | $0.0001/1K tokens |
 
 ## 3. OpenAI Whisper 工具介紹
-本節介紹的OpenAI Whisper與下一節介紹的Nvidia NeMo都是可以用來生成聲音的工具，不過OpenAI的Whisper是需要花費使用的，詳細的介紹可以參考此連結。
+本節介紹的OpenAI Whisper與下一節介紹的Nvidia NeMo都是可以用來生成聲音的工具，不過OpenAI的Whisper是需要花費使用的，詳細的介紹可以參考[此Github連結](https://github.com/openai/whisper#available-models-and-languages)。
 
+### 3.1 多元音色
+目前whisper提供了6種不一樣的聲音，歡迎讀者點擊此連結（即可看到下圖畫面），實際聽聽看不同人選的音色為何。
+
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/Pic2.whisper_voice.png" height="400px">
+</div>
+
+### 3.2 支援語言
 
 ## 4. Nvidia NeMo 開源程式碼專案介紹
 
