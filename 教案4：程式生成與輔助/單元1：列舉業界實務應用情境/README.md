@@ -6,13 +6,8 @@ to-do
 ## 2. 工業編程領域
 to-do
 
-
 ## 3. 遊戲開發產業
-在此參考獨立遊戲（Indie Game）的製作流程，幫助讀者理解如何使用生成式AI幫忙我們完成遊戲的開發。獨立遊戲可以說是創作者天馬行空下的產物，透過好用的開發引擎，每個人都可能做出令人驚豔的PC遊戲！獨立遊戲的製作大致上包含4個項目：遊戲定位、劇情面向、地圖面向、優化項目，完整的獨立遊戲開發地圖可以參考下圖。
-
-<div align=center>
-<img src=".png" width="600px">
-</div>
+在此參考獨立遊戲（Indie Game）的製作流程，幫助讀者理解如何使用生成式AI幫忙我們完成遊戲的開發。獨立遊戲可以說是創作者天馬行空下的產物，透過好用的開發引擎，每個人都可能做出令人驚豔的PC遊戲！獨立遊戲的製作大致上包含4個項目：遊戲定位、劇情面向、地圖面向、優化項目。
 
 ### 3.1 遊戲定位
 * 遊戲主要風格：
@@ -23,14 +18,18 @@ to-do
     * 如：[Itch.io](https://itch.io/)（免費）、[Google Play](https://play.google.com/intl/zh-HK/console/about/programs/indiegames/)（25USD）、[Steam](https://store.steampowered.com/?l=tchinese)（100USD）
 * 開發環境（引擎/語言）：
     * 預計使用什麼遊戲引擎呢？
-    * 如：[Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5), [Unity](https://unity.com/), [Godot Engine](https://godotengine.org/), ... etc.
+    * 如：[Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5), [Amazon Lumberyard](https://aws.amazon.com/lumberyard/), [Unity](https://unity.com/), [Godot Engine](https://godotengine.org/), ... etc.
     * 建議可以查詢這些引擎發布過的遊戲中，是否有符合讀者你自己想做的遊戲風格，再來決定。
-* 下圖展示五種能夠用 Godot 製作出來的遊戲類型
+* 下表整理四種不同遊戲引擎的特色
+| Unreal Engine 5 | Amazon Lumberyard | Unity | Godot Engine |
+| :-- | :-- | :-- | :-- |
+| 優勢：可擴展、功能豐富、自訂能力強大、支援2D與3D | 優勢：平臺功能豐富、能力強大 | 優勢：免費版本、多平台支援、適合各種規模的團隊、支援2D與3D | 優勢：易於使用、介面直覺 | 
+| 價格：免費（視總收入狀況支付使用費） | 價格：免費 | 價格：個人使用免費，付費Suite每月35USD起 | 價格：免費 |
+* 下圖展示五種能夠用 Godot 製作出來的遊戲類型。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/pic2.godot_gametype.png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/pic2.godot_gametype_v2.png" height="250px">
 </div>
-
 
 #### 生成式AI帶來的效益
 我們可以請生成式AI扮演獨立遊戲開發顧問的角色，並開始針對自己的需求向生成式AI提問，進一步釐清遊戲定位。
@@ -47,7 +46,8 @@ to-do
     * 普通的怪物、階段性Boss、遊戲的最大反派的存在理由為何？
 
 #### 生成式AI帶來的效益
-諸如人物的設計與劇情的安排，這樣類似小說情節的安排我們能夠一定程度的與生成式AI，如ChatGPT，一起進行討論與發想，不見得會省下時間，然而大型語言模型在架構性的思維通常能夠幫助到遊戲製作者在全面性、合理性當中獲得一定的幫助。
+1. 諸如人物的設計與劇情的安排，這樣類似小說情節的安排我們能夠一定程度的與生成式AI，如ChatGPT，一起進行討論與發想，不見得會省下時間，然而大型語言模型在架構性的思維通常能夠幫助到遊戲製作者在全面性、合理性當中獲得一定的幫助；甚至是在角色的對白設計上，也能夠利用提供人設的方式，讓GPT幫忙想。
+2. 直接請GPT幫忙寫角色遇到敵人受到傷害血條下降的函式，範例請見[此連結](https://www.youtube.com/watch?v=VFp66-IGCE4)。
 
 ### 3.3 地圖面向
  * 遊戲世界觀（地圖）：
@@ -59,11 +59,22 @@ to-do
 | ![射擊類型遊戲](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/pic1.shoottype.png) | ![開放世界遊戲](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/openworld.png) |
 
  * 遊戲活動區域遊玩方式：
+    * 遊戲風格不一定統一，每個區域是否想以其它的小遊戲呈現呢？
 
 ### 3.4 優化項目
 * 黏著度機制設計：
+    * 你的獨立遊戲是否在主線之後就沒了？有沒有想過新增額外的機制，增加玩家的黏著度？
+    * 如：隨機數值的裝備、後期角色支線的互動（伴侶）
 * 美術、音樂與素材：
-* 完加回饋與後續更新：
+    * 視覺與音樂素材要從0到1自行製作，還是參考現有的公開素材呢？
+    * 如：[DOTOWN](https://dotown.maeda-design-room.net/)、[Kenny](https://kenney.nl/assets)、[OpenGameArt](https://opengameart.org/)、[itch.io](https://itch.io/) 等
+* 玩家回饋與後續更新：
+    * 你的遊戲是否會繼續更新？
+    * 如：交代玩家特別好奇的劇情。
+    * 針對玩家遇到的 Bug 該如何修正也是一個遊戲上線之後需要持續關注的議題。
+
+#### 生成式AI帶來的效益
+利用GPT等語言類生程式AI工具，可以很快地就將遊戲的語言切換成其它國家的語言，大幅增加可能的潛在受眾。
 
 ## 4. 軟體開發領域
 在此節，我們將參考軟體開發業的團隊實際在開發軟體專案的過程中可能會依循的流程，並在後續的幾個單元當中實際展示如何使用ChatGPT、Github Copilot等文字類生成式AI工具輔助我們進行程式碼的撰寫。從瞭解需求一直到真的開發出一個上線運行的軟體系統，通常會包含以下流程：資訊同步（Synchronization）、閱讀程式開發文件（Read Documentation）、撰寫程式碼（Coding）、程式碼審查（Code Review）、測試部署（QA Deployment）、品質確認（Quality Assurance）、上產品線（Production Line）
