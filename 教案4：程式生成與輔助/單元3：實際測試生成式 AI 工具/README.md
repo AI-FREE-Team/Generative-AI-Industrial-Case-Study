@@ -24,7 +24,7 @@ to-do
 
 而下面的影片則會實際使用 ChatGPT 與 Github Copilot 進行語音生成網站的製作，非常歡迎學員觀看下方影片，與我們一起實作！
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit3/pic1.videopreview.png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit3/pic1.videopreview_v2.png" width="600px">
 </div>
 
 * 影片連結：https://youtu.be/2FvjQBwXnrg
