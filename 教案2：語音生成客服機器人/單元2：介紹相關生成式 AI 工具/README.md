@@ -66,7 +66,7 @@ GPT-3.5 Turbo的模型原則上是所需成本最低系列，`gpt-3.5-turbo`能�
 目前whisper提供了6種不一樣的聲音，歡迎讀者點擊此連結（即可看到下圖畫面），實際聽聽看不同人選的音色為何。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/Pic2.whisper_voice.png" height="400px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/pic2.whisper_voice.png" height="400px">
 </div>
 
 ### 3.2 支援語言
