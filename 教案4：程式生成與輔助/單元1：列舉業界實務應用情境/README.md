@@ -25,6 +25,12 @@ to-do
     * 預計使用什麼遊戲引擎呢？
     * 如：[Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5), [Unity](https://unity.com/), [Godot Engine](https://godotengine.org/), ... etc.
     * 建議可以查詢這些引擎發布過的遊戲中，是否有符合讀者你自己想做的遊戲風格，再來決定。
+* 下圖展示五種能夠用 Godot 製作出來的遊戲類型
+
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/pics/unit1/Pic1.%E8%B3%87%E6%96%99%E9%87%8F%E8%88%87%E6%BC%94%E7%AE%97%E6%B3%95%E5%B0%8D%E6%96%BC%E6%A8%A1%E5%9E%8B%E8%A1%A8%E7%8F%BE%E4%B9%8B%E5%BD%B1%E9%9F%BF_v3.png" height="250px">
+</div>
+
 
 #### 生成式AI帶來的效益
 我們可以請生成式AI扮演獨立遊戲開發顧問的角色，並開始針對自己的需求向生成式AI提問，進一步釐清遊戲定位。
