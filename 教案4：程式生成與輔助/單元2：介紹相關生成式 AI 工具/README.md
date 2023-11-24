@@ -4,9 +4,13 @@
 to-do
 
 ## 2. ChatGPT Code Interpreter
+to-do
 
 ## 3. Github Copilot
+to-do
 
 ## 4. Nvidia NeMo 
+to-do
 
 ## 5. Python 套件: Streamlit
+to-do
