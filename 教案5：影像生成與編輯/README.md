@@ -3,7 +3,7 @@ AI繪圖在這波生成式AI的浪潮中因為社群媒體的推播助瀾，大�
 
 ## 單元一：列舉業界實務應用情境
 * [影視媒體領域](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E7%9C%BE%E5%AA%92%E9%AB%94)使用情境
-* [機構設計領域](https://zh.wikipedia.org/zh-tw/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1)使用情境
+* [建築營造領域](https://zh.wikipedia.org/zh-tw/%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)使用情境
 * [平面設計領域](https://zh.wikipedia.org/zh-tw/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1)使用情境
 
 ## 單元二：介紹相關生成式 AI 工具
