@@ -23,7 +23,7 @@
 而OpenAI提供的API服務也不只有語言模型（Language Model），其中也包含了像是影像的生成或是語音的生成服務，下面主要是針對文字的部分進行討論，更多資訊都可以參考[OpenAI為軟體工程師提供的平台](https://platform.openai.com/docs/overview)。
 
 <div align=center>
-<img src=".png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit2/Pic2.OpenAI.API.Dev.Platform.png" height="500px">
 </div>
 
 #### 2.2.1 GPT-4 Turbo
