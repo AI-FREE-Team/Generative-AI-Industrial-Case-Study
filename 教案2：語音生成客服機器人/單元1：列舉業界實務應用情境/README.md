@@ -71,7 +71,7 @@
 相對而言，在網路上已經可以使用的[智能助理 - 阿發](https://www.cathaybk.com.tw/cathaybk/personal/contact/help/guestbook/)，就有針對最常見的問題提供文字的對話介面，雖然不具備語音功能，但使用起來的體驗相對而言比客服機器人好上許多。
 
 <div align=center>
-<img src=".png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit1/pic3.%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86%E9%98%BF%E7%99%BC.png" height="250px">
 </div>
 
 ## 5. 生成式AI帶來的效益
