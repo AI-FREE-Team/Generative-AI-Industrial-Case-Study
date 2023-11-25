@@ -9,7 +9,7 @@
 我們參考[中華電信官方網站](https://www.cht.com.tw/zh-tw/home/cht/service/call-line)既有的客服內容，其實可以發現現在就有提供24小時的語音客戶服務了，特別是在網站上的描述，我們可以理解到大致上包含6個面向的服務：業務諮詢與申辦、帳單與費率問題、手機遺失和相關服務、障礙或通信問題的諮詢與申告、工程挖損案件或意外式通報及處理、與電信相關的的申訴案件
 
 <div align=center>
-<img src=".png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit1/pic1.%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E5%AE%A2%E6%9C%8D.png" height="250px">
 </div>
 
 **1. 業務諮詢與申辦**
