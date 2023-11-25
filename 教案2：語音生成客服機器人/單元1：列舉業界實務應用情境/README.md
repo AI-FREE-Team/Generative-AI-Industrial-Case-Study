@@ -36,7 +36,7 @@
 本節我們參考[氣象署的氣象Q&A全書下載頁面](https://www.cwa.gov.tw/V8/C/K/CommonFaq/meteorology_all.html)，如果我們想要取得氣象或是地震的資訊，目前在氣象署的網站上面一共提供了5個管道：
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit1/pic1.%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E5%AE%A2%E6%9C%8D.png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit1/pic2.%E4%BA%A4%E9%80%9A%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2.png" height="250px">
 </div>
 
 **(1) 電話語音服務**
