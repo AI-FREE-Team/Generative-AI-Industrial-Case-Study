@@ -48,11 +48,11 @@
 
 而下表則實際展示三個不同的Prompt所生成的影片結果。
 
-| 關鍵字（Prompt） | 影片生成結果 |
-| :--: | :--: |
-| `a robot is walking in the forest, sunset -ar 16:9 -motion 2` | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_1.gif) |
-| `a white cat is eating a fish happily, cute cat, giant blue eyes -ar 16:9 -motion 1` | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_2.gif) |
-| `a school bus is moving on the bridge, aerial view -ar 16:9 -motion 3` | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_3.gif) |
+| | 範例一 | 範例二 | 範例三 |
+| :--: | :--: | :--: | :--: |
+| 關鍵字（Prompt）| `a robot is walking in the forest, sunset -ar 16:9 -motion 2` | `a white cat is eating a fish happily, cute cat, giant blue eyes -ar 16:9 -motion 1` | `a school bus is moving on the bridge, aerial view -ar 16:9 -motion 3` | 
+| 影片生成結果 | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_1.gif) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_2.gif) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_3.gif) |
+
 Note: 此表展示的gif受限於檔案大小，因此有針對長寬進行調整，原始輸出的mp4檔確實為16:9的影片。
 
 ## 3. 生成圖像的工具
