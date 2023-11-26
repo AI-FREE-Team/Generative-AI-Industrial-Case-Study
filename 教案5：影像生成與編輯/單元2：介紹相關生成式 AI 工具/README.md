@@ -82,5 +82,10 @@ Note：
 * 畫面右側則是過去的繪畫記錄
 
 ### 3.3 Midjourney
+Midjourney同樣也是在Discord的服務，不過一定需要先行訂閱才能夠使用裡面的功能，有興趣操作的讀者歡迎點擊此連結，在登入後就會進入訂閱介面，完成訂閱後即可開始利用此工具進行創作！
+
+<div align=center>
+<img src="" width="600px">
+</div>
 
 ## 4. 整合型工具：ChatGPT 結合 DALLE
