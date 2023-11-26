@@ -1,8 +1,7 @@
 # 單元一、業界實務應用情境
 
 ## 1. 前言
-此單元將探討生成式AI在工業編程領域、遊戲開發產業與軟體開發業的實際應用情境，從精準的自動化工業到需要發揮創意的遊戲軟體領域，
-學習如何透過生成式AI工具來輔助程式的生成及優化。
+此單元將探討生成式AI在工業編程領域、遊戲開發產業與軟體開發業的實際應用情境，從精準的自動化工業到需要發揮創意的遊戲軟體領域，學習如何透過生成式AI工具來輔助程式的生成及優化。
 
 ## 2. 工業編程領域
 to-do
@@ -22,10 +21,12 @@ to-do
     * 如：[Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5), [Amazon Lumberyard](https://aws.amazon.com/lumberyard/), [Unity](https://unity.com/), [Godot Engine](https://godotengine.org/), ... etc.
     * 建議可以查詢這些引擎發布過的遊戲中，是否有符合讀者你自己想做的遊戲風格，再來決定。
 * 下表整理四種不同遊戲引擎的特色
+
 | Unreal Engine 5 | Amazon Lumberyard | Unity | Godot Engine |
-| :-- | :-- | :-- | :-- |
+| :--- | :--- | :--- | :--- |
 | 優勢：可擴展、功能豐富、自訂能力強大、支援2D與3D | 優勢：平臺功能豐富、能力強大 | 優勢：免費版本、多平台支援、適合各種規模的團隊、支援2D與3D | 優勢：易於使用、介面直覺 | 
 | 價格：免費（視總收入狀況支付使用費） | 價格：免費 | 價格：個人使用免費，付費Suite每月35USD起 | 價格：免費 |
+
 * 下圖展示五種能夠用 Godot 製作出來的遊戲類型。
 
 <div align=center>
