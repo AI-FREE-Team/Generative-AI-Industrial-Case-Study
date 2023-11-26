@@ -7,6 +7,23 @@
 目前AI繪圖除了在影像的生成領域大放異彩外，事實上也有相應的組織正在開發能夠直接利用文字生成影片的生成式AI工具，而目前最廣為人知的服務分別有需要付費訂閱（提供限量試用token）的[Runway](https://runwayml.com/)，以及開源免費的[Pika Labs](https://www.pika.art/)，甚至有耳聞Stability.ai這家開源了Stable Diffusion工具的團隊，也正在開發Stable Video Diffusion工具。
 
 ### 2.1 Runway
+在 Runway 當中提供了幾種常見的使用情境（可見下圖的**Popular AI Magic Tools**）：Video to Video、Text/Image to Video、Remove Background、Text to Image、Image to Image、Train your own Generator。而其中最為有名的就是 Text/Image to Video。
+
+<div align=center>
+<img src="" height="500px">
+</div>
+
+下圖展示實際使用Image to Video的操作介面，可見右上方有撰寫試用的token數（以秒計），每一次生成一段影片都是以4秒為一階段，如果對於每一階段的成果都很滿意，最多可以針對同一段片段連續生成4個片段，也就是16秒，整體操作上非常直覺，各位讀者只需要要Google的帳戶就可以快速嘗試看看。
+
+<div align=center>
+<img src="" height="500px">
+</div>
+
+下表左圖是利用AI繪圖生成的一個Logo視覺意象，而右邊的影片則是利用Runway生成的結果，這邊是使用Runway當中的Motion Brush功能。
+
+| 輸入（AI繪圖結果） | 輸出（Runway輸出結果） |
+| :--: | :--: |
+| ![]() | ![]() |
 
 ### 2.2 Pika Labs
 
