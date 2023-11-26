@@ -73,7 +73,7 @@ Stable Diffusion是Stability.ai這家公司所開源出來的服務，因此我�
 Image Creator背後的AI模型是DALLE3，此模型具備強大的文字理解能力，能夠很精確的根據我們在關鍵字（Prompt）的文字產生圖像，此服務一開始有提供100個token，若是使用完之後則需要訂閱才可以繼續使用，不過生成的影像在風格上就會比Stable Diffusion與Midjourney還有少一些，讀者可以點擊[此連結](https://www.bing.com/images/create)前往試用。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic3.generatinginaction.png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic7.imagecreator.png" width="600px">
 </div>
 
 Note：
