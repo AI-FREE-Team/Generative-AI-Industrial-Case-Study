@@ -98,7 +98,7 @@ Midjourney同樣也是在Discord的服務，不過一定需要先行訂閱才能
 最後一個想要和各位讀者介紹的工具是上述工具中最接近智能助理的存在，在ChatGPT網頁服務中，針對有訂閱的用戶，現階段ChatGPT會主動理解我們的文字需求，如果在其中有提到希望AI能夠幫助我們生成AI繪圖，那麼ChatGPT會自動觸發繪圖機制，並且將我們的文字描述送給DALLE生成精美的圖像。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic9.midjourneyui.png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic10.chatgptdalle.png" width="600px">
 </div>
 
 在第三單元我們會有更多關於這方面的操作，在此展示可能的對話情況供讀者參考。
