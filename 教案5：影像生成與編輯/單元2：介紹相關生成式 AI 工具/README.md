@@ -43,16 +43,17 @@
 上述指令中 `-ar` 表示 aspect ration（輸出長寬比）； `-motion` 則與移動的幅度有關，下圖為實際產製影片的過程會看到的畫面，這段過程會是非常動態的，因為可以看到世界各地的人和你在同一個房間輸入各式各樣不一樣的關鍵字（Prompt）。
 
 <div align=center>
-<img src=".png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic3.generatinginaction.png" width="600px">
 </div>
 
 而下表則實際展示三個不同的Prompt所生成的影片結果。
 
 | 關鍵字（Prompt） | 影片生成結果 |
 | :--: | :--: |
-| `a robot is walking in the forest, sunset -ar 16:9 -motion 2` | ![]() |
-| `a white cat is eating a fish happily, cute cat, giant blue eyes -ar 16:9 -motion 1` | ![]() |
-| `a school bus is moving on the bridge, aerial view -ar 16:9 -motion 3` | ![]() |
+| `a robot is walking in the forest, sunset -ar 16:9 -motion 2` | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_1.gif) |
+| `a white cat is eating a fish happily, cute cat, giant blue eyes -ar 16:9 -motion 1` | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_2.gif) |
+| `a school bus is moving on the bridge, aerial view -ar 16:9 -motion 3` | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pika_exp_3.gif) |
+Note: 此表展示的gif受限於檔案大小，因此有針對長寬進行調整，原始輸出的mp4檔確實為16:9的影片。
 
 ## 3. 生成圖像的工具
 
