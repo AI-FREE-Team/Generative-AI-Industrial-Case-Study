@@ -26,7 +26,13 @@
 | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic1.coolbunny.jpg) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic2.coolbungygif.gif) |
 
 ### 2.2 Pika Labs
+與Runway不同，Pika Labs則是開源免費的服務，讀者只需要有Discord就可以訂閱Pika Labs的頻道並開始使用相關的功能。
 
+<div align=center>
+<img src=".png" width="600px">
+</div>
+
+讀者進入此連結後，將能夠點選下方的`JOIN BETA`按鈕。
 ## 3. 生成圖像的工具
 
 ### 3.1 Stable Diffusion
