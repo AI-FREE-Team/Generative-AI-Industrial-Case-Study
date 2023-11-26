@@ -29,10 +29,19 @@
 與Runway不同，Pika Labs則是開源免費的服務，讀者只需要有Discord就可以訂閱Pika Labs的頻道並開始使用相關的功能。
 
 <div align=center>
-<img src=".png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic2.pikalab.png" width="600px">
 </div>
 
-讀者進入此連結後，將能夠點選下方的`JOIN BETA`按鈕。
+讀者進入此連結後，將能夠點選下方的`JOIN BETA`按鈕。接著的操作會因為讀者是否有Discord的帳戶而有些微的不同，然而在完成註冊之後，大家都可以看到像是下面的Pika操作介面。
+
+<div align=center>
+<img src="" width="600px">
+</div>
+
+如果要開始利用這個工具生成影片，就要進入左側的`#generate`房間，輸入類似以下的關鍵字（Prompt）即可生成相應的影片。
+`/create prompt: a robot is walking in the forest, sunset -ar 16:9 -motion 2`
+下圖實際展示三個不同的Prompt所生成的影片結果。
+
 ## 3. 生成圖像的工具
 
 ### 3.1 Stable Diffusion
