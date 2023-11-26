@@ -70,11 +70,12 @@ TRIPO其實是五個英文單字的縮寫，分別是 Task、Role（角色）、
 <div align=center>
 <img src="https://github.com/BradyFU/Woodpecker/blob/main/assets/framework.png" height="250px">
 </div>
-    1. 關鍵概念擷取（Key　Concept　Extraction）：取得關鍵詞，並利用這些關鍵詞。
-    2. 生成問題（Question　Formulation）：利用5W1H的架構詢問簡單的問題。
-    3. 視覺知識驗證(Visual　Knowledge　Validation)：利用 GPT4-V 提供視覺資訊。
-    4. 視覺與敘述之生成(Visual Claim Generation)：彙整上述三步驟的資訊。
-    5. 幻覺修正(Hallucination Correction)：利用彙整的資訊修正有幻覺行為的關鍵字。
+
+1. 關鍵概念擷取（Key　Concept　Extraction）：取得關鍵詞，並利用這些關鍵詞。
+2. 生成問題（Question　Formulation）：利用5W1H的架構詢問簡單的問題。
+3. 視覺知識驗證(Visual　Knowledge　Validation)：利用 GPT4-V 提供視覺資訊。
+4. 視覺與敘述之生成(Visual Claim Generation)：彙整上述三步驟的資訊。
+5. 幻覺修正(Hallucination Correction)：利用彙整的資訊修正有幻覺行為的關鍵字。
 
 ### 4.3 認識潛在攻擊行為（Prompt Injection）
 「李慕約有限公司」創辦人[李慕約於生成式AI年會](https://www.youtube.com/watch?v=UPN2VD0cV4s)中提及有些詞彙對於生成式AI來說屬於「太有力量的字」，例如：忽略前面指令、Sudo、懂了就重複、翻譯等...，例如：當我提供秘密給ChatGPT，雖然告知不可以告訴任何人，卻仍能夠藉由這些太有力量的詞彙，盜取秘密!
