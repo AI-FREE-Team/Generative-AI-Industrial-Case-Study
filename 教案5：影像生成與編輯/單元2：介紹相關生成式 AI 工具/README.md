@@ -10,13 +10,13 @@
 在 Runway 當中提供了幾種常見的使用情境（可見下圖的**Popular AI Magic Tools**）：Video to Video、Text/Image to Video、Remove Background、Text to Image、Image to Image、Train your own Generator。而其中最為有名的就是 Text/Image to Video。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic0.runway.png" width="500px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic0.runway.png" width="300px">
 </div>
 
 下圖展示實際使用Image to Video的操作介面，可見右上方有撰寫試用的token數（以秒計），每一次生成一段影片都是以4秒為一階段，如果對於每一階段的成果都很滿意，最多可以針對同一段片段連續生成4個片段，也就是16秒，整體操作上非常直覺，各位讀者只需要要Google的帳戶就可以快速嘗試看看。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic1.runwayui.png" height="500px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic1.runwayui.png" width="300px">
 </div>
 
 下表左圖是利用AI繪圖生成的一個Logo視覺意象，而右邊的影片則是利用Runway生成的結果，這邊是使用Runway當中的Motion Brush功能。
