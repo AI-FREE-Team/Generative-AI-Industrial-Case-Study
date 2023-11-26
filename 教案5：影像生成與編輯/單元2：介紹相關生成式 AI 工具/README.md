@@ -91,7 +91,7 @@ Midjourney同樣也是在Discord的服務，不過一定需要先行訂閱才能
 創作流程與Pika有幾分神似，在Pika需要輸入`create/`關鍵字，不過在Midjourney則是要輸入`imagine/`字樣，下圖為實際的操作介面，同樣可以看到世界各地的人輸入關鍵字創作的過程。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic8.midjourneyui.png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic9.midjourneyui.png" width="600px">
 </div>
 
 
