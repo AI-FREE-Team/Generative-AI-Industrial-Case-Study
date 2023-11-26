@@ -62,7 +62,7 @@ Note: 此表展示的gif受限於檔案大小，因此有針對長寬進行調�
 Stable Diffusion是Stability.ai這家公司所開源出來的服務，因此我們都能夠開源免費的使用這個服務，由於此服務屬於開源專案，因此在網路上可以找到許多延伸的開源應用，在此舉出網路上知名的三個例子。
 | | **Fast Stable Diffusion** | **Stable Diffusion Web UI** | **Stable Diffusion Online** |
 | :--: |  :--: | :--: | :--: |
-| | ![]() | ![]() | ![]() |
+| | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic4.faststablediffusion.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic5.stablediffusionwebui.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic6.stablediffusiononline.png) |
 | 面向TA | 自己的電腦配備比較沒有那麼好，或是本地端沒有GPU硬體的用戶 | 熟悉程式碼撰寫與環境安裝，並且在本地端有GPU硬體的用戶 | 單純想要在網頁上體驗AI繪圖基礎功能的用戶 |
 | 特色 | 只要訂閱Google Colab Pro就可以使用，功能全面 | 進入門檻最高，功能全面 | 無進入門檻，但功能最少 |
 | 連結 | [Github Link](https://github.com/TheLastBen/fast-stable-diffusion) | [Github Link](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | [Webpage Link](https://stablediffusionweb.com/) |
