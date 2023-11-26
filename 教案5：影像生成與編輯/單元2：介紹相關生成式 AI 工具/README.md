@@ -56,8 +56,18 @@
 Note: 此表展示的gif受限於檔案大小，因此有針對長寬進行調整，原始輸出的mp4檔確實為16:9的影片。
 
 ## 3. 生成圖像的工具
+在網路上有許多AI繪圖工具，其中最為知名的就是此節會介紹到的Stable Diffusion和Image Creator以及Midjourney。這些工具不外乎都具備文字生成圖片（txt2img）的功能，通常在輸入關鍵字足夠精確的情況下，輸出的品質往往都非常的高。
 
 ### 3.1 Stable Diffusion
+Stable Diffusion是Stability.ai這家公司所開源出來的服務，因此我們都能夠開源免費的使用這個服務，由於此服務屬於開源專案，因此在網路上可以找到許多延伸的開源應用，在此舉出網路上知名的三個例子。
+| | **Fast Stable Diffusion** | **Stable Diffusion Web UI** | **Stable Diffusion Online** |
+| :--: |  :--: | :--: | :--: |
+| | ![]() | ![]() | ![]() |
+| 面向TA | 自己的電腦配備比較沒有那麼好，或是本地端沒有GPU硬體的用戶 | 熟悉程式碼撰寫與環境安裝，並且在本地端有GPU硬體的用戶 | 單純想要在網頁上體驗AI繪圖基礎功能的用戶 |
+| 特色 | 只要訂閱Google Colab Pro就可以使用，功能全面 | 進入門檻最高，功能全面 | 無進入門檻，但功能最少 |
+| 連結 | [Github Link](https://github.com/TheLastBen/fast-stable-diffusion) | [Github Link](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | [Webpage Link](https://stablediffusionweb.com/) |
+
+若讀者對於AI繪圖感興趣，並且也想要學習可控性最高的AI繪圖工具 - Stable Diffusion，歡迎大家參考我們團隊開設的[AI繪圖課程 - AI繪圖溝通術：搭上AI藝術的魔法列車](https://hahow.in/cr/ai-art-master)。
 
 ### 3.2 Image Creator
 
