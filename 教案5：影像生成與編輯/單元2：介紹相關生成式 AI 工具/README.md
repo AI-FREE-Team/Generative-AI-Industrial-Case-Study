@@ -35,12 +35,24 @@
 讀者進入此連結後，將能夠點選下方的`JOIN BETA`按鈕。接著的操作會因為讀者是否有Discord的帳戶而有些微的不同，然而在完成註冊之後，大家都可以看到像是下面的Pika操作介面。
 
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit2/pic2.pikaui.png" width="600px">
 </div>
 
 如果要開始利用這個工具生成影片，就要進入左側的`#generate`房間，輸入類似以下的關鍵字（Prompt）即可生成相應的影片。
 `/create prompt: a robot is walking in the forest, sunset -ar 16:9 -motion 2`
-下圖實際展示三個不同的Prompt所生成的影片結果。
+上述指令中 `-ar` 表示 aspect ration（輸出長寬比）； `-motion` 則與移動的幅度有關，下圖為實際產製影片的過程會看到的畫面，這段過程會是非常動態的，因為可以看到世界各地的人和你在同一個房間輸入各式各樣不一樣的關鍵字（Prompt）。
+
+<div align=center>
+<img src=".png" width="600px">
+</div>
+
+而下表則實際展示三個不同的Prompt所生成的影片結果。
+
+| 關鍵字（Prompt） | 影片生成結果 |
+| :--: | :--: |
+| `a robot is walking in the forest, sunset -ar 16:9 -motion 2` | ![]() |
+| `a white cat is eating a fish happily, cute cat, giant blue eyes -ar 16:9 -motion 1` | ![]() |
+| `a school bus is moving on the bridge, aerial view -ar 16:9 -motion 3` | ![]() |
 
 ## 3. 生成圖像的工具
 
