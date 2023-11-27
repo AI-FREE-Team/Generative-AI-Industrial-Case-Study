@@ -39,16 +39,29 @@
 
 | Image Creator 的生成結果 | Stable Diffusion 的生成結果 |
 | :--: | :--: |
-| ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit3/pic2.imagecreator.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit3/pic2.stablediffusiondreamshaper.png) |
 | 備註：Image Creator一次會生成四張影像 | 備註：我們可以自由調整使用的AI模型，在此使用[DreamShaper](https://civitai.com/models/4384?modelVersionId=128713) |
+
+下方圖片一併展示在文字生成圖片的介面樣式，若讀者好奇我們使用的參數也可以參考。
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit3/pic3.stablediffusion%E5%9C%96%E7%89%87.png" width="600px">
+</div>
+
 
 ## 4. 圖片生成圖片（img2img）
 或許我們可以利用文字生成圖片，或是日常對話生成圖片就完成大部分的創作了，但有時候會遇到你覺得特定影像風格很接近了，希望可以同樣以該風格進行創作與微調，這時候可能就可以利用圖生圖的方式達到這個目的。
 
 下圖展現Stable Diffusion Web UI實際的圖生圖操作介面：
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit3/pic3.stablediffusionimg2imgui.png" width="600px">
+</div>
 
 實際輸入與輸出也可以參考下面的這個表格，在這邊同樣使用DreamShaper這個AI模型，過程其實也含有許多的參數可以設定與調整，如果讀者對於這方面感到好奇，也歡迎參考我們團隊開設的[AI繪圖課程](https://hahow.in/cr/ai-art-master)。
 
 | 參考圖像 | 生成結果 |
 | :--: | :--: |
-| ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit3/pic4.img2imginput.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit3/pic4.img2imgoutput.png) |
+
+Note:
+* 重繪幅度（Denoising Strength）: 0.75
+* 提示詞相關性（CFG Scale）: 7
