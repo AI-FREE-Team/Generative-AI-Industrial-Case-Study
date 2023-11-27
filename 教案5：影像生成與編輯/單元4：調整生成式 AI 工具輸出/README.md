@@ -35,6 +35,10 @@ Note：使用圖生圖的形式，重繪幅度設為0.5。
 ## 3. 利用遮罩（Inpaint）微調影像生成結果
 不過上面提到的方法會動到整張影像，另一個比較進階的作法就是直接指定特定的區域修正，而這樣的技巧被稱為「遮罩」法，在Stable Diffusion Web UI當中的圖生圖就有這樣子的功能，下圖展示Stable Diffusion Web UI的操作介面。
 
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/inpaintUI.png" width="600px">
+</div>
+
 一併也展示利用遮罩所生成的四張影像。
 | 成果一 | 成果二 | 成果三 | 成果四 |
 | :--: | :--: | :--: | :--: |
