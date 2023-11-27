@@ -86,7 +86,7 @@
 AI繪圖工具能針對特定的主題與條件，先大量的產生同樣視覺意象但不同形式的構圖，如角色比例、站姿／坐姿、表情、衣服配件、背景樣式等等，此部分能夠以線稿形式，或是以上色後的形式呈現，端看繪師個人需求。或許就能從中獲得靈感，然後再回到PS中開始進行創作。
 
 <div align=center>
-<img src="" height="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/%E9%AB%98%E6%9C%A8%E4%BA%8C.png" height="600px">
 </div>
 
 ### 4.2 草稿 > 線稿 階段
@@ -96,7 +96,7 @@ AI繪圖工具能針對特定的主題與條件，先大量的產生同樣視覺
 在已透過PS完成畫面的線稿後，可以透過AI繪圖工具嘗試使用不一樣的風格上色，如素描風格、油畫風格、真實風格、Cyberpunk風格等等。讀者可以根據目標/需求，從AI繪圖工具產出的結果中，再接續向後創作，另外，可能AI產出的畫面有些地方的色彩不夠合理，就能利用PS調整。
 
 <div align=center>
-<img src="" height="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/%E9%AB%98%E6%9C%A8%E4%B8%80.png" height="600px">
 </div>
 
 ### 4.4 細調
