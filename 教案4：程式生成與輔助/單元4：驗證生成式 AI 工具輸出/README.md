@@ -40,7 +40,7 @@
 
 我們使用Lena作為驗證用的影像，並將程式碼寫入`image_processing.py`當中。
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit4/lena.png" width="600px">
 </div>
 
 ```python
@@ -153,9 +153,8 @@ if __name__ == '__main__':
 ### 3.5 測試結果
 運行ChatGPT生成的測試代碼後，我們得到了以下結果：所有五個測試都在短短0.041秒內完成，且全部通過，這證明了我們的圖像處理函數按預期進行。
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit4/test.png" width="600px">
 </div>
-
 
 ## 4. 結論
 生成式AI，特別是ChatGPT，展現了在單元測試方面的強大潛力。它不僅可以提升開發效率，還能幫助開發者專注於更複雜的任務。雖然AI生成的測試需要經過人工審核以確保其完整性和正確性，但透過這個流程，我們就能夠進一步驗證生成式AI所撰寫的程式碼了！
