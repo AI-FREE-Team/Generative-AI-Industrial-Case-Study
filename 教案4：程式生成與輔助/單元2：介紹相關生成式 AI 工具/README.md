@@ -10,10 +10,15 @@
 請先確認已經訂閱 ChatGPT Plus，點擊「Settings」的選項，將上圖紅框的選項打開。完成以上步驟後即可開始使用Code Interpreter（Advanced data analysis）的功能。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit4/test.png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/%E5%95%9F%E7%94%A8GPT.png" width="600px">
 </div>
 
 ### 2.2 如何使用 ChatGPT Code Interpreter（Advanced data analysis）？
+目前版本的Code Interpreter已經不需要再特別選擇就可以直接使用，只需要點擊圖片中箭頭所指的地方後將你想分析的檔案上傳，ChatGPT辨別出需要進行資料分析時，就會自動啟用Code Interpreter的功能。
+
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/%E5%95%9F%E7%94%A8GPT.png" width="600px">
+</div>
 
 ### 2.3 示範
 
