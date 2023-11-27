@@ -66,5 +66,5 @@ GPT您好，我目前是XXX產品線的產品經理，我需要將剛剛的會�
 
 若想要一起在下個單元與我們實際操作，歡迎讀者先至XMind官方網站下載其APP。
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit2/XMIND.png" width="600px">
 </div>
