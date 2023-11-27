@@ -41,10 +41,14 @@
 ### 3.2 示範二
 直接輸入需求後等候GitHub Copilot進行撰寫，按下Accept即採用GitHub Copilot所撰寫之程式碼。
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/copilot%E7%A4%BA%E7%AF%84%E4%BA%8C.png" width="600px">
 </div>
 
 ### 3.3 示範三
+若非從頭開始撰寫程式，也可以透過註解的方式告知GitHub Copilot你所想完成的事情，只需按下tab鍵就會採用灰色部分程式碼，換行會持續出現提示，直到完成該指令。
+<div align=center>
+<img src="" width="600px">
+</div>
 
 ## 4. Nvidia NeMo 
 Nvidia NeMo是一個開源的工具包，由Nvidia開發，專注於機器學習模型的建立，特別是在語音和語言處理領域。
