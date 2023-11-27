@@ -21,8 +21,50 @@ Code Interpretor帶來的改變是巨大的，過往我們如果要從原始資�
 | :--: | :--: |
 |![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/GPT%E5%9C%96%E8%A1%A8%E4%B8%80.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/GPT%E5%9C%96%E8%A1%A8%E4%BA%8C.png) |
 
-
 ### 2.2 請 ChatGPT 扮演不同部門不同層級的職員
+我們曾經在[教案一單元三](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E/%E5%96%AE%E5%85%833%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E9%A0%88%E7%9F%A5)提及「角色扮演」，這是和GPT對話的時候能夠大幅幫助GPT進入狀況的關鍵字（Prompt）技巧。
+
+因此面對不同的場景，如果你需要相關的文字建議，以下的起手式請各位讀者務必要記得：
+#### 請GPT扮演一個角色：軟體外包專案
+```
+GPT您好，請你扮演一個資深的技術主管，我是XXX專案的PM，目前手邊有一個軟體專案預計要外包，我希望你能協助我思考相關文件的架構 ...
+```
+
+#### 請GPT扮演多個角色：行銷策略規劃與執行
+```
+GPT您好，我目前是XXX產品線的產品經理，我需要將剛剛的會議記錄轉化成不同部門的行動方針，請你參考虛線以內的會議紀錄，並根據最下方的回覆模板回答
+
+----------（虛線開始）----------
+...
+會議記錄
+...
+----------（虛線結束）----------
+
+#軟體部門
+* To-Do 1：
+* To-Do 2：
+* To-Do 3：
+...
+
+#行銷部門
+* To-Do 1：
+* To-Do 2：
+* To-Do 3：
+...
+
+#行政部門
+* To-Do 1：
+* To-Do 2：
+* To-Do 3：
+...
+```
+
+在這邊提到的關鍵字模板都一定可以再根據讀者自身的情境優化，例如加入更多專案背景資訊、加入RAG服務直接導入外部知識、使用Emotion Prompt提高回覆水準等。
 
 ## 3. XMind 心智圖工具
-ChatGPT 與 XMind 的整合應用
+在團隊會議中，心智圖往往是最常出現的圖表之一，市面上也有許多的心智圖工具，我們在本教案使用[XMind](https://xmind.app/)這個免費的服務，並嘗試整合GPT輸出的內容與XMind，目標是讓GPT輸出的內容可以直接的請XMind繪製出心智圖。
+
+若想要一起在下個單元與我們實際操作，歡迎讀者先至XMind官方網站下載其APP。
+<div align=center>
+<img src="" width="600px">
+</div>
