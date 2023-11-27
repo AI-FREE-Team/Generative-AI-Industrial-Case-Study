@@ -44,6 +44,11 @@ Note：使用圖生圖的形式，重繪幅度設為0.5。
 | :--: | :--: | :--: | :--: |
 | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_5.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_6.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_7.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_8.png) |
 
-可以發現其中有兩張影像很明顯是AI繪圖會錯意了，不過剩下的兩張就有比較完整的呈現出我們所希望的視覺意象了。
+可以發現其中有兩張影像很明顯是AI繪圖會錯意了，不過剩下的兩張就有比較完整的呈現出我們所希望的視覺意象了。這個過程可以確保遮罩以外的區域不會變動，不過也不保證遮罩內的區域就一定可以馬上就試成功，整體流程還是需要一定的實驗與調整。因此也有許多繪師，繪將成果直接繪入Photoshop的編輯軟體做細部調整。
 
-這個過程可以確保遮罩以外的區域不會變動，不過也不保證遮罩內的區域就一定可以馬上就試成功，整體流程還是需要一定的實驗與調整。因此也有許多繪師，繪將成果直接繪入Photoshop的編輯軟體做細部調整。
+### 補充情境
+如果希望更進一步控制人的肢體架構不變，那麼就可以結合遮罩與進階的ControlNet技巧，雖然不能夠調整人物面向的位置，但是可以替換成不一樣的人物，因此也能夠滿足部分的使用情境。
+
+| 成果一 | 成果二 | 成果三 | 成果四 |
+| :--: | :--: | :--: | :--: |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_9.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_10.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_11.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_12.png) |
