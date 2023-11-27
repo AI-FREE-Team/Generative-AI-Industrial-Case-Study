@@ -46,9 +46,8 @@
 任何面對顧客（2C）的產業往往都會想要最大化自身產品服務的投資報酬率，為了客觀的找到最適合的方案，在業界常常會使用**A/B Test**，進而找到最佳方案，A/B Test包含了六大步驟，透過持續的迭代，我們就有機會提高產品服務的投資報酬率。
 
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit1/ABTest.png" width="600px">
 </div>
-
 
 ### 4.1 收集數據
 分析數據以獲得測試和優化的想法。
