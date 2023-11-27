@@ -50,7 +50,34 @@
 3. 快速將草稿上色，同樣也能在短時間內產出多種選擇，不需要設計師自行上色。
 
 ## 3. 建築營造領域使用情
+無論是在建築營造領域，還是機構設計的過程中，可能都會時常耳聞以下3D繪圖軟體：Sketchup、3D Max、Rhino、Blender等，其中因為Blender是開源免費的軟體，因此不僅具備龐大的社群支持，在整合AI繪圖技術的速度也非常的快速。
 
+| Sketchup | Rhino | Blender |
+| :--: | :--: | :--: |
+| ![]() | ![]() | ![]() |
+
+### 3.1 SketchUp 與 Rhino　
+在Sketchup與Rhino當中，用戶可以先在虛擬空間中建立3D物體或是景物後，選定一個角度輸出圖像（可能透過截圖的方式），再將影像輸入給功能最強大的Stable Diffusion Web UI，利用其中的ControlNet技巧針對線稿生成渲染圖像。
+
+此外也有不同的團隊，為這些軟體開發了相關的生成式AI插件：
+* [Veras AI](https://www.evolvelab.io/blog/categories/veras)：要使用Veras AI，則需要從他們的網站安裝插件並創建帳戶。打開任何SketchUp模型並點擊工具欄上的Veras AI圖標就可以開始使用了，具備許多不同的風格和渲染設置，如寫實、素描風格、水彩風格、夜景、白天等。
+
+<div align=center>
+<img src="png" height="250px">
+</div>
+
+* [Arko AI](https://forums.sketchup.com/t/arkoai-plugin-create-ai-generated-renderings-using-your-sketchup-model/219895)：這個插件與Rhino和SketchUp兼容。上傳的模型到網站後，就可以開始調整相機角度、照明、材料和環境，並利用AI繪圖的技術開始進行渲染與創作。
+
+| 操作介面 | 實際成果 |
+| :--: | :--: |
+| ![]() | ![]() |
+
+### 3.2 Blender
+而Blender與上述兩個軟體服務不一樣，因為是開源（Open Source）的軟體應用，因此在同為開源的Stable Diffusion問世之後，許多軟體工程師就將這個服務導入至Blender當中，更多的細節請參考此[Github連結](https://github.com/benrugg/AI-Render)。
+
+<div align=center>
+<img src="png" height="250px">
+</div>
 
 ## 4. 平面設計領域使用情境
 
