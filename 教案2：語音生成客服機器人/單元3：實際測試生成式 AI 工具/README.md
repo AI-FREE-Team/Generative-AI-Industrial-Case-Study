@@ -127,9 +127,7 @@ Note: 運行設備為 Win11，請參考[此連結](https://vocus.cc/article/6470
 </div>
 
 ### 5.4 執行 Streamlit 網頁
-環境安裝完成後
-請在該路徑與環境下
-執行
+環境安裝完成後，請在該路徑與環境下執行以下指令。
 ```
 streamlit run app.py
 ```
