@@ -4,7 +4,43 @@
 此單元將探討生成式AI在工業編程領域、遊戲開發產業與軟體開發業的實際應用情境，從精準的自動化工業到需要發揮創意的遊戲軟體領域，學習如何透過生成式AI工具來輔助程式的生成及優化。
 
 ## 2. 工業編程領域
-to-do
+程式邏輯控制器（PLC）的應用在工業自動化中有著重要的地位，控制著從生產線到資料管理的流程。生成式AI可以在此過程中提供許多協助，從程式碼生成到系統優化，有效提升效率與創新性。
+
+### 2.1 PLC 編程的定位
+此部分可以利用以下三個問題來釐清自身在PLC的定位：
+1. 在PLC的主要應用場景中，哪些工業過程或設備，是你希望通過PLC來控制的？
+2. 你打算在哪種工業環境中部署PLC？如：製造業、能源管理、建築自動化等。
+3. 預計使用哪種PLC硬體及軟體？如：[Siemens SIMATIC Step 7](https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal/software/step7-tia-portal.html), [Allen-Bradley Rockwell Automation](https://www.rockwellautomation.com/zh-tw/products/hardware/allen-bradley.html), [Mitsubishi GX Developer](https://us.mitsubishielectric.com/fa/en/products/controllers/programmable-controllers-melsec/engineering-software/other-engineering-softwares/gx-developer/gx-developer)
+
+不同的服務有其優勢與適用範圍，歡迎各位讀者參考下方表格：
+| 硬體/軟體 | Siemens SIMATIC Step 7 | Allen-Bradley Rockwell Automation | Mitsubishi GX Developer |
+| :--: | :--- | :--- | :--- |
+| 優勢 | 系統整合、高可靠性、使用者社群活躍 | 廣泛的硬體兼容性、強大的支援網絡 | 使用者友好、成本效益高 |
+| 適用範圍 | 適合大型複雜系統 | 適合各種規模的應用 | 適合中小型應用 |
+| 編程複雜度 | 較高，需要專業訓練 | 中等，有豐富的教育資源 | 相對較低，容易上手 |
+| 擴展性 | 良好，支援多種模組與通訊協定 | 良好，支援跨平台整合 | 有限，但對於特定應用足夠 |
+| 社群與支援 | 廣大的社群與官方支援 | 廣泛的用戶基礎與技術支援 | 較小的用戶群體但支援良好 | 
+| 價格 | 根據模組與功能版權不同而異 | 根據系統規模與功能需求計價 | 免費到進階版不等 |
+
+#### 生成式AI帶來的效益
+* 可以輔助快速生成或調整PLC程式碼，減少程式撰寫時間。
+* 能對現有流程分析後提供優化建議，有效增加系統效能。
+
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/PLC_IDE.png" height="600px">
+</div>
+
+### 2.2 功能與邏輯面向
+
+#### 生成式AI帶來的效益
+
+### 2.3 實體與虛擬模擬
+
+#### 生成式AI帶來的效益
+
+### 2.4 效能與優化
+
+#### 生成式AI帶來的效益
 
 ## 3. 遊戲開發產業
 在此參考獨立遊戲（Indie Game）的製作流程，幫助讀者理解如何使用生成式AI幫忙我們完成遊戲的開發。獨立遊戲可以說是創作者天馬行空下的產物，透過好用的開發引擎，每個人都可能做出令人驚豔的PC遊戲！獨立遊戲的製作大致上包含4個項目：遊戲定位、劇情面向、地圖面向、優化項目。
@@ -30,7 +66,7 @@ to-do
 * 下圖展示五種能夠用 Godot 製作出來的遊戲類型。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/pic2.godot_gametype_v2.png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit1/pic2.godot_gametype_v2.png" height="600px">
 </div>
 
 #### 生成式AI帶來的效益
