@@ -33,5 +33,13 @@ Note：使用圖生圖的形式，重繪幅度設為0.5。
 雖然並非每一張影像都有辦法直接的達到目標成果，不過利用AI繪圖生圖迅速的優勢，還是有機會能夠取得相符期待的成果，如：上表的成果一。
 
 ## 3. 利用遮罩（Inpaint）微調影像生成結果
-不過上面提到的方法會動到整張影像，另一個比較進階的作法就是直接指定特定的區域修正，而這樣的技巧被稱為「遮罩」法，在Stable Diffusion Web UI當中的圖生圖就有這樣子的功能。
+不過上面提到的方法會動到整張影像，另一個比較進階的作法就是直接指定特定的區域修正，而這樣的技巧被稱為「遮罩」法，在Stable Diffusion Web UI當中的圖生圖就有這樣子的功能，下圖展示Stable Diffusion Web UI的操作介面。
 
+一併也展示利用遮罩所生成的四張影像。
+| 成果一 | 成果二 | 成果三 | 成果四 |
+| :--: | :--: | :--: | :--: |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_5.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_6.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_7.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit4/result_8.png) |
+
+可以發現其中有兩張影像很明顯是AI繪圖會錯意了，不過剩下的兩張就有比較完整的呈現出我們所希望的視覺意象了。
+
+這個過程可以確保遮罩以外的區域不會變動，不過也不保證遮罩內的區域就一定可以馬上就試成功，整體流程還是需要一定的實驗與調整。因此也有許多繪師，繪將成果直接繪入Photoshop的編輯軟體做細部調整。
