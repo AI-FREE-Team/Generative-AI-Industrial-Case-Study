@@ -3,7 +3,7 @@ AI繪圖在這波生成式AI的浪潮中因為社群媒體的推播助瀾，大�
 
 ## [單元一：列舉業界實務應用情境](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/%E5%96%AE%E5%85%831%EF%BC%9A%E5%88%97%E8%88%89%E6%A5%AD%E7%95%8C%E5%AF%A6%E5%8B%99%E6%87%89%E7%94%A8%E6%83%85%E5%A2%83)
 * [影視媒體領域](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E7%9C%BE%E5%AA%92%E9%AB%94)使用情境
-* [建築營造領域](https://zh.wikipedia.org/zh-tw/%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)使用情境
+* [3D建模領域領域](https://zh.wikipedia.org/zh-tw/%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)使用情境
 * [平面設計領域](https://zh.wikipedia.org/zh-tw/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1)使用情境
 
 ## [單元二：介紹相關生成式 AI 工具](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/%E5%96%AE%E5%85%832%EF%BC%9A%E4%BB%8B%E7%B4%B9%E7%9B%B8%E9%97%9C%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%B7%A5%E5%85%B7)

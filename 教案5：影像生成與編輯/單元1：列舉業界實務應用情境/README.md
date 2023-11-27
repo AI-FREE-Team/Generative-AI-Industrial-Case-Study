@@ -1,7 +1,7 @@
 # 單元一、業界實務應用情境
 
 ## 1. 前言
-在此教案中，我們將討論影像生成與編輯的生成式AI工具在業界的具體應用，由於AI繪圖在短時間之內快速出圖的能力，讓相關產業的設計師不得不重新思考既有的工作流程是否可能藉由導入此技術而獲得改善，或許能夠將部分重複性高，或是架構思維、創意發想等面向代理給AI來做，從影視媒體的創意視覺效果，到建築營造領域的3D精細模擬，再到平面設計的藝術創作，這些都可能是生成式AI將會帶來改變的面向！
+在此教案中，我們將討論影像生成與編輯的生成式AI工具在業界的具體應用，由於AI繪圖在短時間之內快速出圖的能力，讓相關產業的設計師不得不重新思考既有的工作流程是否可能藉由導入此技術而獲得改善，或許能夠將部分重複性高，或是架構思維、創意發想等面向代理給AI來做，從影視媒體的創意視覺效果，到機構設計或建築營造領域的3D精細模擬，再到平面設計的藝術創作，這些都可能是生成式AI將會帶來改變的面向！
 
 ## 2. 影視媒體業使用情境
 讀者們想像到「影視媒體業」時，第一個浮現在腦海中的畫面是什麼呢？是男女主角在電視螢幕前的一段對白、一群劇組人員拿著各式各樣不同的設備面向著劇場，還是在廣告中看到相關電影的宣傳呢？
@@ -49,12 +49,12 @@
 2. 幫助劇組人員定調主視覺應該要保留何種元素。
 3. 快速將草稿上色，同樣也能在短時間內產出多種選擇，不需要設計師自行上色。
 
-## 3. 建築營造領域使用情
-無論是在建築營造領域，還是機構設計的過程中，可能都會時常耳聞以下3D繪圖軟體：Sketchup、3D Max、Rhino、Blender等，其中因為Blender是開源免費的軟體，因此不僅具備龐大的社群支持，在整合AI繪圖技術的速度也非常的快速。
+## 3. 3D建模領域使用情境
+無論是在機構設計的過程中，可能都會時常耳聞以下3D繪圖軟體：Sketchup、3D Max、Rhino、Blender等，其中因為Blender是開源免費的軟體，因此不僅具備龐大的社群支持，在整合AI繪圖技術的速度也非常的快速。
 
 | Sketchup | Rhino | Blender |
 | :--: | :--: | :--: |
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic1.sketchup.jpg) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic2.rhino.png) | ![]() |
 
 ### 3.1 SketchUp 與 Rhino　
 在Sketchup與Rhino當中，用戶可以先在虛擬空間中建立3D物體或是景物後，選定一個角度輸出圖像（可能透過截圖的方式），再將影像輸入給功能最強大的Stable Diffusion Web UI，利用其中的ControlNet技巧針對線稿生成渲染圖像。
@@ -63,20 +63,20 @@
 * [Veras AI](https://www.evolvelab.io/blog/categories/veras)：要使用Veras AI，則需要從他們的網站安裝插件並創建帳戶。打開任何SketchUp模型並點擊工具欄上的Veras AI圖標就可以開始使用了，具備許多不同的風格和渲染設置，如寫實、素描風格、水彩風格、夜景、白天等。
 
 <div align=center>
-<img src="png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic4.versasai.png" height="600px">
 </div>
 
 * [Arko AI](https://forums.sketchup.com/t/arkoai-plugin-create-ai-generated-renderings-using-your-sketchup-model/219895)：這個插件與Rhino和SketchUp兼容。上傳的模型到網站後，就可以開始調整相機角度、照明、材料和環境，並利用AI繪圖的技術開始進行渲染與創作。
 
 | 操作介面 | 實際成果 |
 | :--: | :--: |
-| ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic5.arkoai.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic6.arkoai.png) |
 
 ### 3.2 Blender
 而Blender與上述兩個軟體服務不一樣，因為是開源（Open Source）的軟體應用，因此在同為開源的Stable Diffusion問世之後，許多軟體工程師就將這個服務導入至Blender當中，更多的細節請參考此[Github連結](https://github.com/benrugg/AI-Render)。
 
 <div align=center>
-<img src="png" height="250px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic3.blender.jpg" height="600px">
 </div>
 
 ## 4. 平面設計領域使用情境
