@@ -35,10 +35,14 @@
 ### 3.1 示範一
 按下`ctrl+I`能夠直接與GitHub Copilot說明撰寫程式的要求。
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/copilot%E7%A4%BA%E7%AF%84%E4%B8%80.png" width="600px">
 </div>
 
 ### 3.2 示範二
+直接輸入需求後等候GitHub Copilot進行撰寫，按下Accept即採用GitHub Copilot所撰寫之程式碼。
+<div align=center>
+<img src="" width="600px">
+</div>
 
 ### 3.3 示範三
 
