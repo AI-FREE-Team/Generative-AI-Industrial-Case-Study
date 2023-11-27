@@ -97,10 +97,12 @@
 除了能力與費用的考量外，讀者也需要考量到自己準備使用的服務需要的文字長度大致為何，在一般情境當中原則上GPT-3.5就能夠支援16K的token數了，但針對面對比較極端的情境時，可能就有機會面臨上下文的長度達到限制，需要更大的語言模型才能處理的情況。
 
 ## 4. 實際操作
-在以下我們模擬第2節和GPT-4的來回問答，並將完整的流程錄製於下方連結，歡迎各位讀者點擊連結觀看。
+在以下我們模擬第2節和GPT的來回問答，並將完整的流程錄製於下方連結，歡迎各位讀者點擊連結觀看。
 
-影片的預覽畫面：to-do for ovien
-影片連結：to-do for ovien
+<div align=center>
+<img src="" width="600px">
+</div>
+影片連結：https://youtu.be/sEVf4N6O11I
 
 如果讀者也想要嘗試以下的服務，可以下載此連結裡面的程式碼，並且參考第五節的環境部署結果，即可執行。
 
@@ -112,10 +114,12 @@
 conda env create -f environment.yml
 ```
 
+Note: 運行設備為 Win11，請參考[此連結](https://vocus.cc/article/64701a2cfd897800014daed0)安裝 FFMPEG。
+
 ### 填入API Key
 請讀者將自己的OpenAI API Key貼到`app.py`的98行，這是非常隱私的鑰匙，請讀者一定要小心保管這個Secret Key。
 <div align=center>
-<img src="" height="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA/pics/unit3/PlaceYourOpenAIAPIKey.png" width="600px">
 </div>
 
 ### 執行 Streamlit 網頁
