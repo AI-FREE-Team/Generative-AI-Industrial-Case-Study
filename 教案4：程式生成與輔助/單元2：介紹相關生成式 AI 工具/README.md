@@ -17,10 +17,14 @@
 目前版本的Code Interpreter已經不需要再特別選擇就可以直接使用，只需要點擊圖片中箭頭所指的地方後將你想分析的檔案上傳，ChatGPT辨別出需要進行資料分析時，就會自動啟用Code Interpreter的功能。
 
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/%E5%95%9F%E7%94%A8GPT.png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/%E4%BD%BF%E7%94%A8GPT.png" width="600px">
 </div>
 
-### 2.3 示範
+### 2.3 示範數據分析
+這裡採用公開資料集Iris dataset來進行示範，我們可以利用對話的方式直接請GPT幫我們繪製統計圖表。
+| 對話 | 生成圖表一 | 生成圖表二 |
+| :--: | :--: | :--: | 
+| ![]() | ![]() | ![]() |
 
 ## 3. Github Copilot
 **GitHub Copilot**是GitHub和OpenAI合作開發的程式撰寫輔助工具，當你在撰寫程式時會依照你的程式上下文給你相對應的建議。
