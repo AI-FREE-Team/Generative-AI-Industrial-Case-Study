@@ -41,31 +41,39 @@
 ### 3.2 示範二
 直接輸入需求後等候GitHub Copilot進行撰寫，按下Accept即採用GitHub Copilot所撰寫之程式碼。
 <div align=center>
-<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/copilot%E7%A4%BA%E7%AF%84%E4%BA%8C.png" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/copilot%E7%A4%BA%E7%AF%84%E4%B8%89.png" width="600px">
 </div>
 
 ### 3.3 示範三
 若非從頭開始撰寫程式，也可以透過註解的方式告知GitHub Copilot你所想完成的事情，只需按下tab鍵就會採用灰色部分程式碼，換行會持續出現提示，直到完成該指令。
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/copilot%E7%A4%BA%E7%AF%84%E4%B8%89.png" width="600px">
 </div>
 
 ## 4. Nvidia NeMo 
-Nvidia NeMo是一個開源的工具包，由Nvidia開發，專注於機器學習模型的建立，特別是在語音和語言處理領域。
+NeMo是Nvidia推出的開源NLP工具，包含許多好用的語音識別與自然語言處理 API。這個開源套件讓我們距離人手一個智能助手的目標更加接近，它不僅能夠聽懂你說什麼，還能跟你聊天，甚至幫你寫詩！而NeMo擅長的事情，目前主要包含 3 個面向的 Toolkit：
 
-### 4.1 簡介
-
-### 4.2 核心特色
-
-### 4.3 應用情境
-
-### 4.4 學習資源
+1. ASR（Automatic Speech Recognition）：這是一種語音識別技術，能夠將我們口語的內容轉為文字。較常見的應用像是語音助手或語音輸入服務。
+2. TTS（Text-to-Speech）：它將文字資料轉為聽起來像人說出來的語言，使機器能夠“說話”。我們團隊也曾經製作過太魯閣族的 TTS，並且使用此技術重現耆老的聲音
+3. NLP（Natural Language Processing）：包含了各式各樣的文字處理功能，從翻譯、情感分析、資訊提取到自然語言理解，讓電腦能夠解釋和生成人類語言，以便更自然地與人類互動。
 
 ## 5. Python 套件: Streamlit
 Streamlit是一個開源的Python Package，它讓數據科學家和開發者能夠快速創建和分享數據應用，呈現一個類似網頁的概念。
 
 ### 5.1 優點
+- **簡潔性**: Streamlit的設計哲學是簡潔性，它允許開發者用極少的程式碼創建應用。
+- **即時反饋**: 每次保存文件時，應用會自動更新，這為開發者提供即時反饋。
+- **廣泛的套件庫**: Streamlit包含豐富的套件，如圖表、地圖和互動式素材。
 
 ### 5.2 安裝方法
+1. 安裝指令: 使用pip安裝Streamlit非常簡單。
+`pip install streamlit`
+2. 創建第一個應用：只需寫幾行程式碼，就可以建立一個能夠運行的應用。
+```python
+import streamlit as st
+st.write("Hello, world!")
+```
 
 ### 5.3 使用情境
+- **數據可視化**: Streamlit擅長將數據分析結果以視覺化的形式呈現。
+- **機器學習模型展示**: 快速建立和分享機器學習模型，並提供使用者快速進行測試。
