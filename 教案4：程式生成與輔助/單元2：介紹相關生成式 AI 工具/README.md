@@ -54,8 +54,10 @@
 NeMo是Nvidia推出的開源NLP工具，包含許多好用的語音識別與自然語言處理 API。這個開源套件讓我們距離人手一個智能助手的目標更加接近，它不僅能夠聽懂你說什麼，還能跟你聊天，甚至幫你寫詩！而NeMo擅長的事情，目前主要包含 3 個面向的 Toolkit：
 
 1. ASR（Automatic Speech Recognition）：這是一種語音識別技術，能夠將我們口語的內容轉為文字。較常見的應用像是語音助手或語音輸入服務。
-2. TTS（Text-to-Speech）：它將文字資料轉為聽起來像人說出來的語言，使機器能夠“說話”。我們團隊也曾經製作過太魯閣族的 TTS，並且使用此技術重現耆老的聲音
+2. TTS（Text-to-Speech）：它將文字資料轉為聽起來像人說出來的語言，使機器能夠“說話”。我們團隊也曾經製作過太魯閣族的 TTS，並且使用此技術重現耆老的聲音。
 3. NLP（Natural Language Processing）：包含了各式各樣的文字處理功能，從翻譯、情感分析、資訊提取到自然語言理解，讓電腦能夠解釋和生成人類語言，以便更自然地與人類互動。
+
+如果讀者想要自己嘗試部署的話，可以參考[NeMo在Github的開源專案](https://github.com/NVIDIA/NeMo/blob/main/README.rst)；如果想要快速瞭解上述三個面向對應到的功能實際執行起來會是怎麼樣，也可以直接參考[Nvidia準備的教學網站](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html)。
 
 ## 5. Python 套件: Streamlit
 Streamlit是一個開源的Python Package，它讓數據科學家和開發者能夠快速創建和分享數據應用，呈現一個類似網頁的概念。
