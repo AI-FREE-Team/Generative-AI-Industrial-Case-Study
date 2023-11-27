@@ -21,10 +21,10 @@
 </div>
 
 ### 2.3 示範數據分析
-這裡採用公開資料集Iris dataset來進行示範，我們可以利用對話的方式直接請GPT幫我們繪製統計圖表。
+這裡採用公開資料集[Iris dataset](https://www.kaggle.com/datasets/vikrishnan/iris-dataset)來進行示範，我們可以利用對話的方式直接請GPT幫我們繪製統計圖表。
 | 對話 | 生成圖表一 | 生成圖表二 |
 | :--: | :--: | :--: | 
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/%E7%A4%BA%E7%AF%84GPT%E6%93%8D%E4%BD%9C.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/GPT%E5%9C%96%E8%A1%A8%E4%B8%80.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9/pics/unit2/GPT%E5%9C%96%E8%A1%A8%E4%BA%8C.png) |
 
 ## 3. Github Copilot
 **GitHub Copilot**是GitHub和OpenAI合作開發的程式撰寫輔助工具，當你在撰寫程式時會依照你的程式上下文給你相對應的建議。
@@ -33,6 +33,10 @@
 * 費用：每月10美金或是每年100美金。開源貢獻者或學生可以申請免費方案。
 
 ### 3.1 示範一
+按下`ctrl+I`能夠直接與GitHub Copilot說明撰寫程式的要求。
+<div align=center>
+<img src="" width="600px">
+</div>
 
 ### 3.2 示範二
 
