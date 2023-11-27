@@ -105,4 +105,23 @@
 如果讀者也想要嘗試以下的服務，可以下載此連結裡面的程式碼，並且參考第五節的環境部署結果，即可執行。
 
 ## 5. 安裝部署流程
-to-do for ovien
+### 安裝環境
+請參考 ***environment.yml*** 這份檔案
+一鍵安裝環境
+```
+conda env create -f environment.yml
+```
+
+### 填入API Key
+請讀者將自己的OpenAI API Key貼到`app.py`的98行，這是非常隱私的鑰匙，請讀者一定要小心保管這個Secret Key。
+<div align=center>
+<img src="" height="600px">
+</div>
+
+### 執行 Streamlit 網頁
+環境安裝完成後
+請在該路徑與環境下
+執行
+```
+streamlit run app.py
+```
