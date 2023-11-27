@@ -35,8 +35,8 @@
 非常歡迎讀者先看完下面的影片後，再聽聽看專業劇組人員在製片過程中的點滴。
 | 第一集 | 第二集 | 解說影片 |
 | :--: | :--: | :--: |
-| ![]() | ![]() | ![]() |
-| [YouTube Link]() | [YouTube Link]() | [YouTube Link]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic1.rockpaperscissors.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic2.rockpaperscissors.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF/pics/unit1/pic3.rockpaperscissors.png) |
+| [YouTube Link](https://www.youtube.com/watch?v=GVT3WUa-48Y) | [YouTube Link](https://www.youtube.com/watch?v=tWZOEFvczzA) | [YouTube Link](https://www.youtube.com/watch?v=7QAGEvt-btI) |
 
 #### 降低拍攝成本
 以下舉幾個潛在可以降低成本的應用：
