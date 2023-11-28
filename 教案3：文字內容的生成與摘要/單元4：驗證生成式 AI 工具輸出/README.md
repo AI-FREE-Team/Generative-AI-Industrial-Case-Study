@@ -7,7 +7,7 @@
 "Human in the loop"（HITL）是一種電腦科學和人工智慧（AI）領域的概念，指的是在人工智慧系統中讓人類參與。這種設計目的在克服機器在處理某些任務上的限制。
 
 <div align=center>
-<img src="" height="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit4/pic.human-in-the-loop.png" height="600px">
 </div>
 
 採用了Human in the loop的服務方案，會有以下四個特色：
@@ -20,3 +20,5 @@
 
 ## 3. 利用 RAG 驗證大型語言模型輸出內容
 如果在撰寫文案的過程中，希望GPT等大型語言模型能夠更接地氣的撰寫文案，或是希望在提供回答的時候能夠一併附上自己的參考來源，那麼就可以使用教案一單元三提及的RAG，將相關的外部知識提供給GPT，這樣子GPT等大型語言模型在回答的時候就會一併附上自己回答的參考依據。
+
+我們建議在廣告營銷領域當中的讀者，可以透過RAG的機制加入過去自身團隊發出後獲得正面回響的文案，進一步讓GPT等大型語言模型能夠從一個更接近讀者的角度撰寫文案初稿，讓後續我們的修正時間也獲得改善！
