@@ -44,7 +44,7 @@ Step2：分析這三個版本的優點
 以下是生成結果
 | 英國短毛貓 | 暹羅貓 | 橘貓 | 白貓 |
 | :--: | :--: | :--: | :--: |
-| ![]() | ![]() | ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/%E8%8B%B1%E5%9C%8B%E7%9F%AD%E6%AF%9B%E8%B2%93_v1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/%E6%9A%B9%E7%BE%85%E8%B2%93_v1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/%E6%A9%98%E8%B2%93_v1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/%E7%B4%94%E7%99%BD%E8%89%B2%E7%9A%84%E8%B2%93%E5%92%AA_v1.png) |
 
 #### 版本二：一張橫幅的圖片，兩張正方形的圖片
 一樣，我們也可以把需求加入關鍵字當中。
@@ -57,14 +57,11 @@ Step2：分析這三個版本的優點
 2. 貓咪的衣服要合身
 3. 可以加入冬天的場景，例如：下雪、起霧、寒冷
 ```
-<div align=center>
-<img src="" width="600px">
-</div>
 
 以下是生成結果
-| 英國短毛貓 | 暹羅貓 | 橘貓 | 白貓 |
-| :--: | :--: | :--: | :--: |
-| ![]() | ![]() | ![]() | ![]() |
-
+| 英國短毛貓 | 暹羅貓 | 白貓 |
+| :--: | :--: | :--: |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/%E8%8B%B1%E5%9C%8B%E7%9F%AD%E6%AF%9B%E8%B2%93_v2.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/%E6%9A%B9%E7%BE%85%E8%B2%93_v2.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/%E7%B4%94%E7%99%BD%E8%B2%93_v2.png) |
 
 ### 3.3 組裝後實際發文
+接著就可以實際的發出文章，這部分就看讀者自己比較偏愛哪一種排版囉！
