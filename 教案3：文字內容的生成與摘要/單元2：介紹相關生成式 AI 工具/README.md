@@ -40,4 +40,4 @@ Bard是Google提供的生成式AI服務，大家如果已經有Google帳戶，�
 | :--: | :--: | :--: |
 | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic5.bard1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic6.bard2.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic7.bard3.png) |
 
-眼尖的讀者可能有 觀察到Bard其實回答的內容是有誤的，後續如果Bard有和Google Map有比較好的串接，相信就能夠回答的更精確了。
+眼尖的讀者可能有觀察到Bard其實回答的內容是有誤的，後續如果Bard有和Google Map有比較好的串接，相信就能夠回答的更精確了。
