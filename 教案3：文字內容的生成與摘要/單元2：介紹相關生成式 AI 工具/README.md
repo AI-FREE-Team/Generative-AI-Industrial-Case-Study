@@ -33,3 +33,11 @@ ChatGPT網頁服務提供給一般大眾使用，原則上不用付費的使用�
 | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic3.skypebing1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic4.skypebingresponse.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic4.skypebingresponse2.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic4.skypebingresponse3.png) |
 
 ## 5. Google Bard 工具介紹
+Bard是Google提供的生成式AI服務，大家如果已經有Google帳戶，也很適合點擊[此連結](https://bard.google.com/chat?hl=zh-TW)嘗試和Bard對話。
+
+假設我們準備要從台北的松江南京捷運站前往台南的成功大學演講，我們可能可以和Bard有這樣的對話。
+| 截圖一 | 截圖二 | 截圖三 |
+| :--: | :--: | :--: |
+| ![]() | ![]() | ![]() |
+
+眼尖的讀者可能有 觀察到Bard其實回答的內容是有誤的，後續如果Bard有和Google Map有比較好的串接，相信就能夠回答的更精確了。
