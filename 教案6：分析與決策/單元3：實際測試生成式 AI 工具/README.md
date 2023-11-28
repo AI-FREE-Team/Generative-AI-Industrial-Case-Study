@@ -77,7 +77,7 @@ ChatGPT您好，我是公司的行銷部門主管，我在明天的主管會議�
 下表是實際詢問與回覆的畫面，若讀者有興趣參考，歡迎點擊後仔細閱覽：
 | 詢問GPT-4 | ChatGPT的回覆內容1 | ChatGPT的回覆內容2 |
 | :--: | :--: | :--: |
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic1.ask.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic2.ans1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic3.ans2.png) |
 
 #### 步驟二：根據挑戰內容修改既有提案
 ```
@@ -116,7 +116,7 @@ ChatGPT您好，我是公司的行銷部門主管，我在明天的主管會議�
 下表是實際詢問與回覆的畫面，若讀者有興趣參考，歡迎點擊後仔細閱覽：
 | 詢問GPT-4 | ChatGPT的回覆內容1 | ChatGPT的回覆內容2 |
 | :--: | :--: | :--: |
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic4.ask.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic5.ans1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic6.ans2.png) |
 
 而這樣的流程都可以一直進行下去，直到你提供了完整的資訊，或是GPT已經產出讓你滿意的架構了。
 
@@ -157,12 +157,12 @@ ChatGPT您好，我是公司的行銷部門主管，我在明天的主管會議�
 
 | 詢問GPT-3.5內容1 | 詢問GPT-3.5內容2 | ChatGPT的回覆內容1 | ChatGPT的回覆內容2 |
 | :--: | :--: | :--: | :--: |
-| ![]() | ![]() | ![]() | ![]() |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic7.ask1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic8.ask2.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic9.ans1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic10.ans2.png) |
 
 這時候請讀者將文字內容儲存在一個markdown檔案裡面，像是本資料夾中的`xmind_input.md`一樣。
 再利用Xmind的匯入功能，即可取得以下成果。
 <div align=center>
-<img src="" width="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic11.xmind.png" width="600px">
 </div>
 
 ## 4. 基於數據的洞見
