@@ -19,7 +19,7 @@
 
 ## 更多人工智慧（AI）學習資源
 * **開源資料集（Open Source Dataset）**
-    *  Github：[繁體中文手寫資料集] > 共 68 萬張手寫文字影像
+    * Github：[繁體中文手寫資料集] > 共 68 萬張手寫文字影像
 * **主題式 AI 專案**
     * Github：[語音合成 TTS 開源專案](https://github.com/AI-FREE-Team/TTS-AIGO) > 附上 YouTube 影片講解
     * iThome：零基礎成為 AI 解夢大師秘笈 > 共 30 單元
@@ -27,4 +27,5 @@
     * Github：[Python Basics](https://github.com/AI-FREE-Team/Python-Basics) > 共 15 單元
     * Github：[Machine Learning Basics](https://github.com/AI-FREE-Team/Machine-Learning-Basic) > 共 22 單元
     * Github：[AI Introduction](https://github.com/AI-FREE-Team/AI-Introduction) > 共 9 單元
-* 共學社群：
+* **共學社群**
+    * Facebook：[AI . FREE Team - Community 自由團隊 學習社群](https://www.facebook.com/groups/AI.Free.Community)
