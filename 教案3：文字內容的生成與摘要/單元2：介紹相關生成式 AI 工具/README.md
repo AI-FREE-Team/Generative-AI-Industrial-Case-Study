@@ -19,6 +19,17 @@ ChatGPT網頁服務提供給一般大眾使用，原則上不用付費的使用�
 ## 3. Bing Chat 工具介紹
 在Edge瀏覽器能夠使用，結合網路索引的功能，並提供創意、中性、嚴謹三種模式，如果讀者需要對話的內容需要大量參考網路上的資訊，那麼會建議大家轉而使用Bing Chat這個工具，然後再根據自己的情境去切換不同的對話模式，如果大家想要嘗試和Bing Chat對話看看，歡迎點擊[此連結](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8)。
 
+下圖展示實際和Bing Chat對話的範例：
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic2.bingchatui.png" height="600px">
+</div>
+
 ## 4. Skype Bing 工具介紹
+如果組織內部平時就有使用Skype，那麼Skype Bing就會是很適合你的文字類型的生成式AI工具，在Skype當中，我們可以把專案相關的夥伴拉到同一個群組，並且針對同一個Bing詢問任何內容，對待Bing的方式就和對待其他夥伴的方式一模一樣，如果你喜歡它的回覆並且想要指派不同人員接續下去做事情。
+
+詳細的操作示範歡迎大家參考以下表格，點進每張照片看一下我們是如何和Bing互動的。
+| 截圖一 | 截圖二 | 截圖三 | 截圖四 |
+| :--: | :--: | :--: | :--: |
+| ![]() | ![]() | ![]() | ![]() |
 
 ## 5. Google Bard 工具介紹
