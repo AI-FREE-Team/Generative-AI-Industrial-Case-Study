@@ -65,3 +65,7 @@ Step2：分析這三個版本的優點
 
 ### 3.3 組裝後實際發文
 接著就可以實際的發出文章，這部分就看讀者自己比較偏愛哪一種排版囉！
+
+| 排版一 | 排版二 |
+| :--: | :--: |
+| ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/post_ver1.png) | ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit3/post_ver2.png) |
