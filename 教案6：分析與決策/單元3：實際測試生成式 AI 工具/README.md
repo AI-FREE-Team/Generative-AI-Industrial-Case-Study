@@ -176,3 +176,41 @@ ChatGPT您好，我是公司的行銷部門主管，我在明天的主管會議�
 <div align=center>
 <img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic12.dataanalysis.png" width="600px">
 </div>
+
+### 4.2 上傳檔案，並且直接提出我們的疑問
+```
+GPT您好，這份檔案是我的部門過去投入在TV、Social Media、Radio對應到實際銷售額（Sales）的檔案，我有以下需求希望你可以幫助我完成：
+1. 繪製我們過去投入在 TV、Social Media、Radio 的金額占比（圓餅圖）
+2. 請繪製相關的統計圖表，告訴我，我應該要如何調整花費在TV、Social Media、Radio的金額，以獲得最高的銷售額
+
+請你使用繁體中文回答我，不過在繪製圖表的時候維持英文沒關係
+如果有遇到任何一個欄位有NaN，請直接將該筆資料（Row）刪除
+```
+
+你可以發現，我們在這邊問的問題，和我們一般工作流程中，會去詢問資料科學家的問題非常的相似，而讀者也可以自己看一下這份`Dummy Data HSS.csv`，想想看自己有什麼問題是你好奇的。
+
+| 提問 | 回答1 | 回答2 | 回答3 |
+| :--: | :--: | :--: | :--: |
+| !()[https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic13.ask.png] | !()[https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic14.ans1.png] | !()[https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic15.ans2.png] | !()[https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic16.ans3.png] |
+
+Note: 
+* 會請GPT在繪製圖表的時候使用英文，是因為通常在繪製圖表時使用繁體中文會造成文字編碼的問題，進而影像最後的呈現結果。
+* GPT將會一步驟一步驟的像讀者說明目前的進度，整體而言會是一個動態的過程。
+
+#### Data Analysis GPT 告訴我們的結論
+* 針對 Q1：投入在 TV、Social Media、Radio 的金額占比（圓餅圖）
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic17.pie.png" width="600px">
+</div>
+* 針對 Q2：如何調整花費在TV、Social Media、Radio的金額，以獲得最高的銷售額
+```
+根據迴歸分析的結果，我們可以得到以下結論：
+
+1. TV 廣告投資回報率 (ROI): TV廣告的係數為3.5626，這意味著每增加一個單位的TV廣告支出，銷售額平均會增加大約3.56個單位。這是顯著的，因為其P值遠小於0.05。
+
+2. Radio 廣告投資回報率: Radio廣告的係數為-0.0040，但這個結果並不顯著（P值為0.685），這意味著Radio廣告支出對銷售額的影響不明顯。
+
+3. Social Media 廣告投資回報率: Social Media廣告的係數為0.0050，但同樣地，這個結果並不顯著（P值為0.842），表示Social Media廣告支出對銷售額的影響也不明顯。
+
+綜合上述，TV廣告似乎是影響銷售額最大的因素。因此，如果目的是為了最大化銷售額，建議增加在TV廣告上的投資。然而，值得注意的是，廣告效果可能受到許多其他因素的影響，如廣告內容、定位和市場環境等，這些因素在這個分析中並未被考慮。此外，Radio和Social Media的廣告可能在品牌知名度、客戶忠誠度等其他方面有貢獻，儘管它們對銷售額的直接影響不大。 ​
+```
