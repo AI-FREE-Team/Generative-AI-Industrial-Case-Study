@@ -1,3 +1,6 @@
+![](https://raw.githubusercontent.com/chenkenanalytic/img/master/af/aifreeteam.png)
+歡迎大家來到 AI . FREE Team 的開源生成式AI專案，這份專案將會帶領你一起探索生成式AI工具的無限可能性。
+
 ## 生成式 AI 於產業應用教案實作練習模組
 此開源專案針對不同產業面向設計了六個與生成式AI工具應用的章節，其中在第一章節我們會介紹到生成式AI工具的基礎、相關工具甚至是提詞技巧（Prompt），而接續的五個教案則會針對不同主題進行討論，每個教案都會討論到三個產業可能導入生成式AI工具的情境，並且也會其中實作流程中使用的程式碼開源出來。
 
@@ -15,3 +18,15 @@
 ▶ 教案設計：[AI . FREE Team](https://www.facebook.com/aifreeteam/)
 
 ▶ 專案指導：數位發展部數位產業署[洪先生（Robin Hung）](https://www.iiiedu.org.tw/)
+
+## 更多人工智慧（AI）學習資源
+* **開源資料集（Open Source Dataset）**
+    *  Github：[繁體中文手寫資料集] > 共 68 萬張手寫文字影像
+* **主題式 AI 專案**
+    * Github：[語音合成 TTS 開源專案](https://github.com/AI-FREE-Team/TTS-AIGO) > 附上 YouTube 影片講解
+    * iThome：零基礎成為 AI 解夢大師秘笈 > 共 30 單元
+* **Python 從商業分析到人工智慧**
+    * Github：[Python Basics](https://github.com/AI-FREE-Team/Python-Basics) > 共 15 單元
+    * Github：[Machine Learning Basics](https://github.com/AI-FREE-Team/Machine-Learning-Basic) > 共 22 單元
+    * Github：[AI Introduction](https://github.com/AI-FREE-Team/AI-Introduction) > 共 9 單元
+* 共學社群：
