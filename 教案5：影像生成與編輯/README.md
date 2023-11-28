@@ -21,5 +21,5 @@ AI繪圖在這波生成式AI的浪潮中因為社群媒體的推播助瀾，大�
 * 利用遮罩（Inpaint）微調影像生成結果
 
 ## 教案設計者
- - 作者：[陳柏銓（Chen Ken）](https://www.linkedin.com/in/pochuanchen/)、[鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
- - 最後更新日期：2023/11/23
+ - 作者：[鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
+ - 最後更新日期：2023/11/28

@@ -30,4 +30,4 @@
 
 ## 教案設計者
  - 作者：[林凱翊（KaiI Lin）](https://www.linkedin.com/in/%E5%87%B1%E7%BF%8A-%E6%9E%97-3b503028b/)、[鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
- - 最後更新日期：2023/11/23
+ - 最後更新日期：2023/11/28

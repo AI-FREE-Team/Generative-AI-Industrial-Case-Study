@@ -23,4 +23,4 @@
 
 ## 教案設計者
  - 作者：[李浩維（Hank Li）](https://www.linkedin.com/in/%E6%B5%A9%E7%B6%AD-%E6%9D%8E-996248236/)、[鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)
- - 最後更新日期：2023/11/23
+ - 最後更新日期：2023/11/28
