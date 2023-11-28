@@ -10,7 +10,7 @@
 | 面向 | 全產業 | 電信業、公部門、金融業 | 教育界、媒體業、營銷廣告 | 
 | 作者 | [林凱翊（KaiI Lin）](https://www.linkedin.com/in/%E5%87%B1%E7%BF%8A-%E6%9E%97-3b503028b/) | [李佑謙（Ovien Lee）](https://www.linkedin.com/in/ovien-lee-b42a45231/) | [鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/)  | 
 | | [![pic4](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic4.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%884%EF%BC%9A%E7%A8%8B%E5%BC%8F%E7%94%9F%E6%88%90%E8%88%87%E8%BC%94%E5%8A%A9) **教案四：程式生成與輔助** | [![pic5](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic5.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%885%EF%BC%9A%E5%BD%B1%E5%83%8F%E7%94%9F%E6%88%90%E8%88%87%E7%B7%A8%E8%BC%AF) **教案五：影像生成與編輯** | [![pic6](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic6.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96) **教案六：分析與決策** |
-| 面向 | 工業編程、遊戲業、軟體開發 | 影視媒體、3D建模領域、平面設計 | 軟體開發、金融業、零售電商 |
+| 面向 | 工業編程、遊戲業、軟體開發 | 影視媒體、3D建模、平面設計 | 軟體開發、金融業、零售電商 |
 | 作者 | [李浩維（Hank Li）](https://www.linkedin.com/in/%E6%B5%A9%E7%B6%AD-%E6%9D%8E-996248236/) | [鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/) |  [陳柏銓（Chen Ken）](https://www.linkedin.com/in/pochuanchen/) |
 
 ▶ 教案設計：[AI . FREE Team](https://www.facebook.com/aifreeteam/)
