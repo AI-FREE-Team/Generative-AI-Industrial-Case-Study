@@ -11,7 +11,7 @@ ChatGPT網頁服務提供給一般大眾使用，原則上不用付費的使用�
 下圖展示GPT的操作介面，左側是過去的對話紀錄，GPT這邊會根據我們的第一個提問做摘要，並針把該摘要作為此次對話的名稱；而右側是主要的對話區域，整體而言使用介面相當容易理解。
 
 <div align=center>
-<img src="" height="600px">
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81/pics/unit2/pic1.chatgptui.png" height="600px">
 </div>
 
 如果平常有大量使用手機，我們也推薦使用者至App Store或是Google Play下載GPT服務，這邊就不再展示手機端的使用介面了。
