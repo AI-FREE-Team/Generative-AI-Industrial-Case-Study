@@ -12,5 +12,6 @@
 | 產業面向 | 工業編程、遊戲業、軟體開發 | 影視媒體、3D建模領域、平面設計 | 軟體開發、金融業、零售電商 |
 | 教案作者 | [李浩維（Hank Li）](https://www.linkedin.com/in/%E6%B5%A9%E7%B6%AD-%E6%9D%8E-996248236/) | [鄭中嘉（Eric Cheng）](https://www.linkedin.com/in/eric-cheng-ai-free-team/) |  [陳柏銓（Chen Ken）](https://www.linkedin.com/in/pochuanchen/) |
 
-▶ 教案設計團隊：[AI . FREE Team](https://www.facebook.com/aifreeteam/) & 
-▶ 專案指導人：[數位發展部數位產業署](https://moda.gov.tw/ADI/)[洪先生（Robin Hung）](https://www.iiiedu.org.tw/)
+▶ 教案設計：[AI . FREE Team](https://www.facebook.com/aifreeteam/)
+
+▶ 專案指導：[數位發展部數位產業署](https://moda.gov.tw/ADI/)[洪先生（Robin Hung）](https://www.iiiedu.org.tw/)
