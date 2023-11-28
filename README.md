@@ -14,4 +14,4 @@
 
 ▶ 教案設計：[AI . FREE Team](https://www.facebook.com/aifreeteam/)
 
-▶ 專案指導：[數位發展部數位產業署](https://moda.gov.tw/ADI/)[洪先生（Robin Hung）](https://www.iiiedu.org.tw/)
+▶ 專案指導：數位發展部數位產業署[洪先生（Robin Hung）](https://www.iiiedu.org.tw/)
