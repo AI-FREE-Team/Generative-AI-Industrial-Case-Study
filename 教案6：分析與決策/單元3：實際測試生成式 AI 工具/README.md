@@ -203,7 +203,8 @@ Note:
 <img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic17.pie.png" width="600px">
 </div>
 * 針對 Q2：如何調整花費在TV、Social Media、Radio的金額，以獲得最高的銷售額
-```
+
+```mardown
 根據迴歸分析的結果，我們可以得到以下結論：
 
 1. TV 廣告投資回報率 (ROI): TV廣告的係數為3.5626，這意味著每增加一個單位的TV廣告支出，銷售額平均會增加大約3.56個單位。這是顯著的，因為其P值遠小於0.05。
