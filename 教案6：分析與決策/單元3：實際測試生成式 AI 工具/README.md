@@ -166,4 +166,13 @@ ChatGPT您好，我是公司的行銷部門主管，我在明天的主管會議�
 </div>
 
 ## 4. 基於數據的洞見
-利用Code Interpretor從真實數據挖掘相關的數據事實，協助決策。
+這邊我們利用Code Interpretor從真實數據挖掘相關的數據事實，協助決策。延續剛剛的情境，假設我們現在已經行銷了兩個禮拜，然後還有剩下兩個禮拜，我們打算在行銷部門裡面調整行銷策略，我們**想要針對過去行銷和實際銷售的金額**決定之後要怎麼微調，因此我們就可以利用ChatGPT的Code Interpretor功能，幫我們解析資料。
+
+請讀者參考[此Kaggle連結](https://www.kaggle.com/datasets/harrimansaragih/dummy-advertising-and-sales-data)，下載可以操作的Excel檔案，完成後就能夠上傳到GPT，開始我們的提問。
+
+### 4.1 在 Explore 當中找到 Data Analysis 的 GPT
+目前針對訂閱的ChatGPT使用者，OpenAI有提供數種不同功能的GPT，這邊我們因為要做數據分析，因此就選擇Data Analysis的GPT作為對話的對象。
+
+<div align=center>
+<img src="https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/%E6%95%99%E6%A1%886%EF%BC%9A%E5%88%86%E6%9E%90%E8%88%87%E6%B1%BA%E7%AD%96/pics/unit3/pic12.dataanalysis.png" width="600px">
+</div>
