@@ -15,7 +15,7 @@
 
 ▶ 教案設計：[AI . FREE Team](https://www.facebook.com/aifreeteam/)
 
-▶ 專案指導：數位發展部數位產業署[洪先生（Robin Hung）](https://www.iiiedu.org.tw/)
+▶ 專案指導：[AIGO（AI產業實戰應用人才淬煉計畫）](https://aigo.org.tw/zh-tw)
 
 ## 更多人工智慧（AI）學習資源
 * **開源資料集（Open Source Dataset）**
