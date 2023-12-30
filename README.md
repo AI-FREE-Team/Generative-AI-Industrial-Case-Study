@@ -1,4 +1,8 @@
-![](https://raw.githubusercontent.com/chenkenanalytic/img/master/af/aifreeteam.png)
+## **智能辦公 - 生成式 AI 實務應用與案例分析**
+* Webpage：[課程網頁介紹](https://ai-free-team.github.io/generative_ai_course/)，截止至 2024/01/10，報名從速。
+* [數位發展部 AIGO 認證生成式 AI 培訓課程](https://aigo.org.tw/zh-tw/course/details/751)，報名並完課即可獲得 50% 學費補助！
+![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic7.png)
+
 ## 生成式 AI 於產業應用教案實作練習模組
 歡迎大家來到 AI . FREE Team 的開源生成式AI專案，此開源專案針對不同產業面向設計了六個與生成式AI工具應用的章節，其中在第一章節我們會介紹到生成式AI工具的基礎、相關工具甚至是提詞技巧（Prompt），而接續的五個教案則會針對不同主題進行討論，每個教案都會討論到三個產業可能導入生成式AI工具的情境，並且也會其中實作流程中使用的程式碼開源出來。
 
@@ -18,11 +22,6 @@
 ▶ 專案指導：數位發展部數位產業署[AIGO（AI產業實戰應用人才淬煉計畫）](https://aigo.org.tw/zh-tw)
 
 ## 更多人工智慧（AI）學習資源
-* **智能辦公 - 生成式 AI 實務應用與案例分析**
-    * Webpage：[課程網頁介紹](https://ai-free-team.github.io/generative_ai_course/)，截止至 2024/01/10，報名從速。
-    * [數位發展部 AIGO 認證生成式 AI 培訓課程](https://aigo.org.tw/zh-tw/course/details/751)，報名並完課即可獲得 50% 學費補助！
-    * ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic7.png)
-    
 * **開源資料集（Open Source Dataset）**
     * Github：[繁體中文手寫資料集](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset) > 共 68 萬張手寫文字影像
 * **主題式 AI 專案**
