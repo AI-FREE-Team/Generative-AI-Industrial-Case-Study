@@ -22,6 +22,10 @@
 ▶ 專案指導：數位發展部數位產業署[AIGO（AI產業實戰應用人才淬煉計畫）](https://aigo.org.tw/zh-tw)
 
 ## 更多人工智慧（AI）學習資源
+* **智能辦公 - 生成式 AI 實務應用與案例分析**
+    * Webpage：[課程網頁](https://ai-free-team.github.io/generative_ai_course/)介紹，截止至 2024/01/10，報名從速。
+    * 數位發展部 AIGO 認證生成式 AI 培訓課程
+    * 報名並完課即可獲**專項課程證書**與**政府 50% 學費補助**！
 * **開源資料集（Open Source Dataset）**
     * Github：[繁體中文手寫資料集](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset) > 共 68 萬張手寫文字影像
 * **主題式 AI 專案**
