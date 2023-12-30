@@ -19,7 +19,7 @@
 
 ## 更多人工智慧（AI）學習資源
 * **智能辦公 - 生成式 AI 實務應用與案例分析**
-    * Webpage：[課程網頁介紹](https://ai-free-team.github.io/generative_ai_course/)，報名截止至 2024/01/10，報名從速。
+    * Webpage：[課程網頁介紹](https://ai-free-team.github.io/generative_ai_course/)，截止至 2024/01/10，報名從速。
     * [數位發展部 AIGO 認證生成式 AI 培訓課程](https://aigo.org.tw/zh-tw/course/details/751)，報名並完課即可獲得 50% 學費補助！
     * ![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic7.png)
     
