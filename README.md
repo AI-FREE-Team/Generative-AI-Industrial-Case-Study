@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/chenkenanalytic/img/master/af/aifreeteam.png)
 ## 生成式 AI 於產業應用教案實作練習模組
 歡迎大家來到 AI . FREE Team 的開源生成式AI專案，此開源專案針對不同產業面向設計了六個與生成式AI工具應用的章節，其中在第一章節我們會介紹到生成式AI工具的基礎、相關工具甚至是提詞技巧（Prompt），而接續的五個教案則會針對不同主題進行討論，每個教案都會討論到三個產業可能導入生成式AI工具的情境，並且也會其中實作流程中使用的程式碼開源出來。
 
