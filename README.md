@@ -1,12 +1,12 @@
-## **智能辦公 - 生成式 AI 實務應用與案例分析**
-* Webpage：[課程網頁介紹](https://ai-free-team.github.io/generative_ai_course/)，截止至 2024/01/10，報名從速。
-* [數位發展部 AIGO 認證生成式 AI 培訓課程](https://aigo.org.tw/zh-tw/course/details/751)，報名並完課即可獲得 50% 學費補助！
-![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic7.png)
-
 ## 生成式 AI 於產業應用教案實作練習模組
 歡迎大家來到 AI . FREE Team 的開源生成式AI專案，此開源專案針對不同產業面向設計了六個與生成式AI工具應用的章節，其中在第一章節我們會介紹到生成式AI工具的基礎、相關工具甚至是提詞技巧（Prompt），而接續的五個教案則會針對不同主題進行討論，每個教案都會討論到三個產業可能導入生成式AI工具的情境，並且也會其中實作流程中使用的程式碼開源出來。
 
 期待這個開源生成式AI專案能夠幫助各位讀者順利掌握生成式AI工具，並進一步加值於自身的產業領域當中！
+
+## **智能辦公 - 生成式 AI 實務應用與案例分析**
+* Webpage：[課程網頁介紹](https://ai-free-team.github.io/generative_ai_course/)，截止至 2024/01/10，報名從速。
+* [數位發展部 AIGO 認證生成式 AI 培訓課程](https://aigo.org.tw/zh-tw/course/details/751)，報名並完課即可獲得 50% 學費補助！
+![](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic7.png)
 
 ## 教案內容
 | | [![pic1](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic1.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%881%EF%BC%9A%E7%94%9F%E6%88%90%E5%BC%8F%20AI%20%E5%9F%BA%E7%A4%8E) 教案一：生成式 AI 基礎| [![pic2](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic2.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%882%EF%BC%9A%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%AE%A2%E6%9C%8D%E6%A9%9F%E5%99%A8%E4%BA%BA) 教案二：語音生成客服機器人 | [![pic3](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/blob/main/pics/pic3.png)](https://github.com/AI-FREE-Team/Generative-AI-Industrial-Case-Study/tree/main/%E6%95%99%E6%A1%883%EF%BC%9A%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%9A%84%E7%94%9F%E6%88%90%E8%88%87%E6%91%98%E8%A6%81) 教案三：文字內容的生成與摘要 |
